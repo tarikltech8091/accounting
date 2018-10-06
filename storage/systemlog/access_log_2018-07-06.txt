@@ -1,0 +1,2 @@
+07-06-2018 | 02:00:51 |   93.119.227.34|guest|LogIn|https://www.accounts.dftexltd.com|Apple Safari|Android|||
+07-06-2018 | 02:00:51 |   93.119.227.34|guest|LogIn|https://accounts.dftexltd.com|Apple Safari|Phone|||

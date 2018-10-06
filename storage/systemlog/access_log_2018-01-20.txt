@@ -1,0 +1,114 @@
+01-20-2018 | 13:47:46 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+01-20-2018 | 13:47:52 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:47:53 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 13:48:04 |   45.123.42.137|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+01-20-2018 | 13:48:04 |   45.123.42.137|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+01-20-2018 | 13:49:19 |   45.123.42.137|guest|User Profile|http://accounts.dftexltd.com/user/profile|Google Chrome|windows|||
+01-20-2018 | 13:50:02 |   45.123.42.137|guest|User Password Change|http://accounts.dftexltd.com/user/change/password|Google Chrome|windows|||
+01-20-2018 | 13:50:03 |   45.123.42.137|guest|User Profile|http://accounts.dftexltd.com/user/profile?tab=change_password|Google Chrome|windows|||
+01-20-2018 | 13:50:47 |   45.123.42.137|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/10000001/group-1|Google Chrome|windows|||
+01-20-2018 | 13:51:49 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 13:51:53 |   45.123.42.137|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+01-20-2018 | 13:52:22 |   45.123.42.137|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 13:52:23 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:52:41 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:52:43 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:53:12 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+01-20-2018 | 13:53:52 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:53:53 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:54:17 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:54:17 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:55:59 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:56:00 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:56:09 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:56:14 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 13:56:26 |   45.123.42.137|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+01-20-2018 | 13:56:31 |   45.123.42.137|guest|User Profile|http://accounts.dftexltd.com/user/profile|Google Chrome|windows|||
+01-20-2018 | 13:56:36 |   45.123.42.137|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+01-20-2018 | 13:58:23 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:58:26 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:58:29 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:58:29 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:58:34 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 13:59:17 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|mac|||
+01-20-2018 | 13:59:19 |   45.123.42.137|guest|User Password Change|http://accounts.dftexltd.com/user/change/password|Google Chrome|windows|||
+01-20-2018 | 14:00:51 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+01-20-2018 | 14:01:10 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 14:01:12 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 14:01:28 |   45.123.42.137|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+01-20-2018 | 14:01:28 |   45.123.42.137|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+01-20-2018 | 14:02:02 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+01-20-2018 | 14:02:03 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 14:02:40 |   45.123.42.137|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-others_payment|Google Chrome|windows|||
+01-20-2018 | 15:52:02 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+01-20-2018 | 15:52:04 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 15:52:14 |   45.123.42.137|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+01-20-2018 | 15:52:14 |   45.123.42.137|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+01-20-2018 | 15:52:20 |   45.123.42.137|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 15:52:21 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 15:53:05 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 15:53:06 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 15:53:16 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 15:53:18 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 15:53:29 |   45.123.42.137|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+01-20-2018 | 15:53:29 |   45.123.42.137|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+01-20-2018 | 15:53:43 |   45.123.42.137|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 15:53:45 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 15:56:59 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 15:57:00 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 15:57:05 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 15:57:16 |   45.123.42.137|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+01-20-2018 | 15:57:17 |   45.123.42.137|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+01-20-2018 | 16:04:27 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|mac|||
+01-20-2018 | 16:06:57 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:06:58 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:07:12 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:07:13 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:08:22 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:08:23 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:09:14 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:09:16 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:09:25 |   45.123.42.137|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 16:09:26 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 16:09:43 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:09:44 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:10:24 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 16:10:26 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 16:10:45 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 16:10:45 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 16:10:48 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 16:10:58 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:10:59 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:11:02 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-20-2018 | 16:11:07 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 16:11:19 |   45.123.42.137|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+01-20-2018 | 16:11:19 |   45.123.42.137|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+01-20-2018 | 16:11:21 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:11:25 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:11:30 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:11:31 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:11:58 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:12:08 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:12:58 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:12:59 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:13:30 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:13:31 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:14:04 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:14:06 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:14:09 |   45.123.42.137|guest|User Profile|http://accounts.dftexltd.com/user/profile|Google Chrome|windows|||
+01-20-2018 | 16:14:12 |   45.123.42.137|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+01-20-2018 | 16:14:16 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:14:21 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:14:31 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:14:48 |   45.123.42.137|guest|User Registration|http://accounts.dftexltd.com/dashboard/admin/user/registration|Google Chrome|windows|||
+01-20-2018 | 16:14:49 |   45.123.42.137|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+01-20-2018 | 16:17:01 |   45.123.42.137|guest|User Registration|http://accounts.dftexltd.com/dashboard/admin/user/registration|Google Chrome|windows|||
+01-20-2018 | 16:17:03 |   45.123.42.137|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+01-20-2018 | 16:18:37 |   45.123.42.137|guest|User Registration|http://accounts.dftexltd.com/dashboard/admin/user/registration|Google Chrome|windows|||
+01-20-2018 | 16:18:38 |   45.123.42.137|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+01-20-2018 | 16:18:44 |   45.123.42.137|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+01-20-2018 | 16:19:03 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|mac|||
+01-20-2018 | 16:19:58 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-20-2018 | 16:19:59 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/mahmudul.ambia|Apple Safari|mac|||
+01-20-2018 | 16:21:15 |   45.123.42.137|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Google Chrome|windows|||
+01-20-2018 | 16:21:16 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||

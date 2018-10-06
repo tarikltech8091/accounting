@@ -1,0 +1,3 @@
+03-01-2017 | 19:41:29 |   Message : Undefined index: user_name
+03-01-2017 | 19:45:34 |   Message : Undefined index: user_name, File : /home2/sharif/accounts_dftex/app/Http/Controllers/AdminController.php, Line : 834
+ 

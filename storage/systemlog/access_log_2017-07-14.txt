@@ -1,0 +1,22 @@
+07-14-2017 | 21:22:12 |   202.134.14.157|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|Phone|||
+07-14-2017 | 21:23:30 |   103.237.36.118|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+07-14-2017 | 21:24:09 |   103.237.36.118|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-14-2017 | 21:24:10 |   103.237.36.118|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-14-2017 | 21:24:28 |   103.237.36.118|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-14-2017 | 21:24:28 |   103.237.36.118|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-14-2017 | 21:24:49 |   103.237.36.118|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-14-2017 | 21:24:51 |   103.237.36.118|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-14-2017 | 21:25:05 |   103.237.36.118|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+07-14-2017 | 21:25:05 |   103.237.36.118|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+07-14-2017 | 21:25:23 |   103.237.36.118|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+07-14-2017 | 21:25:24 |   103.237.36.118|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+07-14-2017 | 21:25:25 |   103.237.36.118|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+07-14-2017 | 21:26:47 |   103.237.36.118|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+07-14-2017 | 21:27:08 |   103.237.36.118|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Google Chrome|windows|||
+07-14-2017 | 21:27:21 |   103.237.36.118|guest|A/C Receivable Report|http://accounts.dftexltd.com/account-receivable/balance/report|Google Chrome|windows|||
+07-14-2017 | 21:29:25 |   103.237.36.118|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Google Chrome|windows|||
+07-14-2017 | 21:29:26 |   103.237.36.118|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-14-2017 | 21:30:59 |   202.134.14.157|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|Phone|||
+07-14-2017 | 21:31:21 |   202.134.14.157|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Apple Safari|Phone|||
+07-14-2017 | 21:31:50 |   202.134.14.157|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Apple Safari|Phone|||
+07-14-2017 | 21:32:56 |   202.134.14.157|guest|All Order List|http://accounts.dftexltd.com/customer/all/order-list|Apple Safari|Phone|||

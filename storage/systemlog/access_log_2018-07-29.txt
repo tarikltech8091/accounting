@@ -1,0 +1,29 @@
+07-29-2018 | 17:26:43 |   45.123.40.158|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+07-29-2018 | 17:26:51 |   45.123.40.158|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-29-2018 | 17:26:52 |   45.123.40.158|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-29-2018 | 17:27:03 |   45.123.40.158|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+07-29-2018 | 17:27:03 |   45.123.40.158|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+07-29-2018 | 17:27:04 |   45.123.40.158|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+07-29-2018 | 17:27:06 |   45.123.40.158|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+07-29-2018 | 19:51:04 |   45.123.40.158|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-29-2018 | 19:51:05 |   45.123.40.158|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-29-2018 | 19:51:18 |   45.123.40.158|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-29-2018 | 19:51:19 |   45.123.40.158|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-29-2018 | 19:51:23 |   45.123.40.158|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-29-2018 | 19:51:34 |   45.123.40.158|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+07-29-2018 | 19:51:34 |   45.123.40.158|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+07-29-2018 | 19:52:39 |   45.123.40.158|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+07-29-2018 | 19:52:51 |   45.123.40.158|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-29-2018 | 19:53:03 |   45.123.40.158|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+07-29-2018 | 19:53:03 |   45.123.40.158|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+07-29-2018 | 19:59:48 |   45.123.40.158|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+07-29-2018 | 20:18:56 |   45.123.40.158|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-29-2018 | 20:19:07 |   45.123.40.158|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+07-29-2018 | 20:19:08 |   45.123.40.158|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+07-29-2018 | 20:24:12 |   45.123.40.158|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+07-29-2018 | 22:04:06 |   45.123.40.158|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/10000001/group-1|Google Chrome|windows|||
+07-29-2018 | 22:04:10 |   45.123.40.158|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/20000003/group-2|Google Chrome|windows|||
+07-29-2018 | 22:04:13 |   45.123.40.158|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-30000036/depth-3|Google Chrome|windows|||
+07-29-2018 | 22:04:32 |   45.123.40.158|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-10000007/depth-1|Google Chrome|windows|||
+07-29-2018 | 22:04:35 |   45.123.40.158|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-10000007/depth-1|Google Chrome|windows|||
+07-29-2018 | 22:05:13 |   45.123.40.158|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-10000006/depth-1|Google Chrome|windows|||

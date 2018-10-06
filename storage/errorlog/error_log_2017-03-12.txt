@@ -1,0 +1,2 @@
+03-12-2017 | 10:28:21 |   Message : Unauthenticated., File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php, Line : 39
+  

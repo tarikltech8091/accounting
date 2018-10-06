@@ -1,0 +1,3 @@
+05-31-2017 | 15:59:34 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+05-31-2017 | 16:03:08 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+05-31-2017 | 16:03:10 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||

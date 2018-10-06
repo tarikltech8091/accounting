@@ -1,0 +1,34 @@
+03-23-2017 | 10:35:14 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||
+03-23-2017 | 10:35:18 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||
+03-23-2017 | 10:35:28 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+03-23-2017 | 10:35:29 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||
+03-23-2017 | 10:35:50 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||
+03-23-2017 | 10:36:04 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||
+03-23-2017 | 10:36:04 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||
+03-23-2017 | 10:36:11 |   203.188.243.150|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||
+03-23-2017 | 10:40:24 |   203.188.243.150|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Mozilla Firefox|windows|||
+03-23-2017 | 10:40:42 |   203.188.243.150|guest|Inventory Stocks Item List|http://accounts.dftexltd.com/inventory/stock/item/list|Mozilla Firefox|windows|||
+03-23-2017 | 10:41:11 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||
+03-23-2017 | 10:41:57 |   203.188.243.150|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||
+03-23-2017 | 10:42:05 |   203.188.243.150|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Mozilla Firefox|windows|||
+03-23-2017 | 10:42:21 |   203.188.243.150|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=kmr&customer_id=4&customer_ref=50000010.5|Mozilla Firefox|windows|||
+03-23-2017 | 10:42:39 |   203.188.243.150|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=eto_tech&customer_id=2&customer_ref=50000008.5|Mozilla Firefox|windows|||
+03-23-2017 | 10:42:59 |   203.188.243.150|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=ltech&customer_id=1&customer_ref=50000003.5|Mozilla Firefox|windows|||
+03-23-2017 | 10:43:19 |   203.188.243.150|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=sa_label&customer_id=3&customer_ref=50000009.5|Mozilla Firefox|windows|||
+03-23-2017 | 10:43:36 |   203.188.243.150|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=sa_label&customer_id=3&customer_ref=50000009.5|Mozilla Firefox|windows|||
+03-23-2017 | 10:43:58 |   203.188.243.150|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=eto_tech&customer_id=2&customer_ref=50000008.5|Mozilla Firefox|windows|||
+03-23-2017 | 12:36:25 |   203.188.243.150|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=sa_label&customer_id=3&customer_ref=50000009.5|Mozilla Firefox|windows|||
+03-23-2017 | 12:36:29 |   203.188.243.150|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Mozilla Firefox|windows|||
+03-23-2017 | 12:36:34 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||
+03-23-2017 | 12:36:35 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||
+03-23-2017 | 12:36:55 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||
+03-23-2017 | 12:36:56 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||
+03-23-2017 | 12:37:01 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||
+03-23-2017 | 12:37:32 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||
+03-23-2017 | 12:38:57 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||
+03-23-2017 | 12:39:19 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||
+03-23-2017 | 12:39:37 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list?cost_center=0&search_from=2016-11-27&search_to=2017-03-23|Mozilla Firefox|windows|||
+03-23-2017 | 12:40:58 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||
+03-23-2017 | 12:41:01 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Mozilla Firefox|windows|||
+03-23-2017 | 12:41:17 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=7&order_id=7|Mozilla Firefox|windows|||
+03-23-2017 | 13:19:54 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||

@@ -1,0 +1,8 @@
+04-09-2017 | 11:19:23 |   42.0.5.197|guest|LogIn|http://www.accounts.dftexltd.com|Apple Safari|Phone|||
+04-09-2017 | 11:20:02 |   42.0.5.197|guest|LogIn|http://www.accounts.dftexltd.com/login|Apple Safari|Phone|||
+04-09-2017 | 11:20:07 |   42.0.5.197|guest|Dashboard|http://www.accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Apple Safari|Phone|||
+04-09-2017 | 11:20:21 |   42.0.5.197|guest|All Report Summary|http://www.accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Apple Safari|Phone|||
+04-09-2017 | 11:20:21 |   42.0.5.197|guest|Line Chart Report|http://www.accounts.dftexltd.com/dashboard/admin/line-graph/chart|Apple Safari|Phone|||
+04-09-2017 | 11:21:23 |   42.0.5.197|guest|All Order List|http://www.accounts.dftexltd.com/customer/all/order-list|Apple Safari|Phone|||
+04-09-2017 | 11:21:51 |   42.0.5.197|guest|Journal Posting|http://www.accounts.dftexltd.com/journal/sub-group/10000002/group-1|Apple Safari|Phone|||
+04-09-2017 | 11:22:28 |   42.0.5.197|guest|Customer Order|http://www.accounts.dftexltd.com/customer/order|Apple Safari|Phone|||

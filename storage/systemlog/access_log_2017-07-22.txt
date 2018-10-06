@@ -1,0 +1,14 @@
+07-22-2017 | 15:49:47 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||
+07-22-2017 | 15:50:00 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+07-22-2017 | 15:50:02 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||
+07-22-2017 | 15:50:15 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||
+07-22-2017 | 15:50:16 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||
+07-22-2017 | 15:50:19 |   203.188.243.150|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|||
+07-22-2017 | 15:50:36 |   203.188.243.150|guest|Inventory Stocks Entry|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|||
+07-22-2017 | 15:50:36 |   203.188.243.150|guest|Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice/view|Mozilla Firefox|windows|||
+07-22-2017 | 15:50:47 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||
+07-22-2017 | 15:51:08 |   203.188.243.150|guest|General Transaction Delete|http://accounts.dftexltd.com/general/transaction-list/delete/id-41/type-purchase|Mozilla Firefox|windows|||
+07-22-2017 | 15:51:09 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||
+07-22-2017 | 15:51:09 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||
+07-22-2017 | 15:52:15 |   203.188.243.150|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Mozilla Firefox|windows|||
+07-22-2017 | 15:52:17 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||

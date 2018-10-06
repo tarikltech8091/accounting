@@ -1,0 +1,15 @@
+03-04-2017 | 17:49:04 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 17:49:04 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 17:49:08 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 17:49:08 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 17:49:17 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 17:49:17 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 17:49:24 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/ReportController.php, Line : 320
+03-04-2017 | 17:49:48 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 17:49:48 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 17:53:47 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 17:53:47 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 17:54:00 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 17:54:00 |   Message : Class App\Http\Controllers\ReportController does not exist, File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php, Line : 749
+03-04-2017 | 18:13:14 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 1005
+03-04-2017 | 18:13:39 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 1290

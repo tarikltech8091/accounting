@@ -1,0 +1,56 @@
+08-01-2017 | 17:52:28 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||
+08-01-2017 | 17:52:53 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+08-01-2017 | 17:52:54 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||
+08-01-2017 | 17:53:04 |   203.188.243.150|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Mozilla Firefox|windows|||
+08-01-2017 | 17:53:37 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||
+08-01-2017 | 17:53:37 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||
+08-01-2017 | 17:53:41 |   203.188.243.150|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Mozilla Firefox|windows|||
+08-01-2017 | 17:54:05 |   203.188.243.150|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-10000001/depth-1|Mozilla Firefox|windows|||
+08-01-2017 | 17:54:18 |   203.188.243.150|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-10000001/depth-1|Mozilla Firefox|windows|||
+08-01-2017 | 17:54:45 |   203.188.243.150|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|||
+08-01-2017 | 17:55:14 |   203.188.243.150|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Mozilla Firefox|windows|||
+08-01-2017 | 17:55:24 |   203.188.243.150|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|||
+08-01-2017 | 17:57:17 |   203.188.243.150|guest|Inventory Stocks Item List|http://accounts.dftexltd.com/inventory/stock/item/list|Mozilla Firefox|windows|||
+08-01-2017 | 17:57:30 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||
+08-01-2017 | 17:57:45 |   203.188.243.150|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Mozilla Firefox|windows|||
+08-01-2017 | 17:58:03 |   203.188.243.150|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment-method/cash|Mozilla Firefox|windows|||
+08-01-2017 | 17:58:29 |   203.188.243.150|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Mozilla Firefox|windows|||
+08-01-2017 | 17:58:52 |   203.188.243.150|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|||
+08-01-2017 | 17:59:17 |   203.188.243.150|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Mozilla Firefox|windows|||
+08-01-2017 | 18:00:14 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||
+08-01-2017 | 18:00:37 |   203.188.243.150|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||
+08-01-2017 | 18:01:12 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||
+08-01-2017 | 18:01:23 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Mozilla Firefox|windows|||
+08-01-2017 | 18:01:47 |   203.188.243.150|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Mozilla Firefox|windows|||
+08-01-2017 | 18:02:40 |   203.188.243.150|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Mozilla Firefox|windows|||
+08-01-2017 | 18:02:58 |   203.188.243.150|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return|Mozilla Firefox|windows|||
+08-01-2017 | 18:03:23 |   203.188.243.150|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment|Mozilla Firefox|windows|||
+08-01-2017 | 18:04:10 |   203.188.243.150|guest|All Order List|http://accounts.dftexltd.com/customer/all/order-list|Mozilla Firefox|windows|||
+08-01-2017 | 18:04:25 |   203.188.243.150|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||
+08-01-2017 | 18:04:55 |   203.188.243.150|guest|Finish Goods Summery List|http://accounts.dftexltd.com/finish-goods/summery/list|Mozilla Firefox|windows|||
+08-01-2017 | 18:05:44 |   203.188.243.150|guest|Finish Goods Summery List|http://accounts.dftexltd.com/finish-goods/summery/list?cost_center=0&search_from=2016-07-31&search_to=2017-08-01|Mozilla Firefox|windows|||
+08-01-2017 | 18:06:10 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||
+08-01-2017 | 18:06:24 |   203.188.243.150|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||
+08-01-2017 | 18:07:06 |   203.188.243.150|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||
+08-01-2017 | 18:08:01 |   203.188.243.150|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||
+08-01-2017 | 18:08:30 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||
+08-01-2017 | 18:08:37 |   203.188.243.150|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Mozilla Firefox|windows|||
+08-01-2017 | 18:09:06 |   203.188.243.150|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Mozilla Firefox|windows|||
+08-01-2017 | 18:09:11 |   203.188.243.150|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Mozilla Firefox|windows|||
+08-01-2017 | 18:09:43 |   203.188.243.150|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/10000001/group-1|Mozilla Firefox|windows|||
+08-01-2017 | 18:09:45 |   203.188.243.150|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/20000001/group-2|Mozilla Firefox|windows|||
+08-01-2017 | 18:09:53 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||
+08-01-2017 | 18:10:17 |   203.188.243.150|guest|Journal|http://accounts.dftexltd.com/journal/transaction|Mozilla Firefox|windows|||
+08-01-2017 | 18:10:27 |   203.188.243.150|guest|All Ledger Transaction|http://accounts.dftexltd.com/all/journal/ledger|Mozilla Firefox|windows|||
+08-01-2017 | 18:10:34 |   203.188.243.150|guest|Ledger Transaction Details|http://accounts.dftexltd.com/journal/debit-cerdit/details/id-10000004|Mozilla Firefox|windows|||
+08-01-2017 | 18:10:48 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||
+08-01-2017 | 18:10:53 |   203.188.243.150|guest|All Ledger Transaction|http://accounts.dftexltd.com/all/journal/ledger|Mozilla Firefox|windows|||
+08-01-2017 | 18:10:56 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||
+08-01-2017 | 18:11:32 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||
+08-01-2017 | 18:11:33 |   203.188.243.150|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Mozilla Firefox|windows|||
+08-01-2017 | 18:14:04 |   203.188.243.150|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Mozilla Firefox|windows|||
+08-01-2017 | 18:14:06 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+08-01-2017 | 18:14:13 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+08-01-2017 | 18:14:14 |   203.188.243.150|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Mozilla Firefox|windows|||
+08-01-2017 | 18:16:16 |   203.188.243.150|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Mozilla Firefox|windows|||
+08-01-2017 | 18:16:17 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||

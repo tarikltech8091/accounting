@@ -1,0 +1,5 @@
+04-04-2017 | 10:43:21 |   43.245.123.215|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|Phone|||
+04-04-2017 | 10:43:22 |   43.245.123.215|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/mahmudul.hasan.sourav|Apple Safari|Phone|||
+04-04-2017 | 10:43:34 |   43.245.123.215|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Apple Safari|Phone|||
+04-04-2017 | 10:43:35 |   43.245.123.215|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Apple Safari|Phone|||
+04-04-2017 | 10:45:15 |   43.245.123.215|guest|Journal|http://accounts.dftexltd.com/journal/transaction|Apple Safari|Phone|||

@@ -1,0 +1,15 @@
+06-24-2018 | 13:07:29 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+06-24-2018 | 13:07:37 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+06-24-2018 | 13:07:39 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+06-24-2018 | 13:07:49 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+06-24-2018 | 13:07:49 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+06-24-2018 | 13:08:37 |   103.88.232.210|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Google Chrome|windows|||
+06-24-2018 | 13:08:58 |   103.88.232.210|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|||
+06-24-2018 | 13:09:15 |   103.88.232.210|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|||
+06-24-2018 | 13:09:36 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+06-24-2018 | 13:09:46 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+06-24-2018 | 13:09:46 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+06-24-2018 | 13:13:57 |   103.88.232.210|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+06-24-2018 | 13:22:15 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+06-24-2018 | 13:22:49 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+06-24-2018 | 13:22:49 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||

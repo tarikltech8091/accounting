@@ -1,0 +1,292 @@
+10-06-2018 | 10:52:05 |   127.0.0.1|guest|LogIn|http://localhost:75|Google Chrome|linux|||
+10-06-2018 | 10:52:23 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-06-2018 | 10:52:27 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 10:52:29 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 10:52:29 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 10:53:23 |   127.0.0.1|guest|User Managemenet|http://localhost:75/dashboard/admin/user/management|Google Chrome|linux|||
+10-06-2018 | 10:53:29 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 10:53:31 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 10:53:31 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 10:53:32 |   127.0.0.1|guest|Cost Center|http://localhost:75/dashboard/cost-center|Google Chrome|linux|||
+10-06-2018 | 10:53:43 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 10:53:47 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 10:53:48 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 10:53:51 |   127.0.0.1|guest|All Customer|http://localhost:75/customer/list|Google Chrome|linux|||
+10-06-2018 | 10:54:00 |   127.0.0.1|guest|All Supplier|http://localhost:75/supplier/list|Google Chrome|linux|||
+10-06-2018 | 10:54:09 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-06-2018 | 10:54:20 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-others_receipt|Google Chrome|linux|||
+10-06-2018 | 10:54:22 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-others_payment|Google Chrome|linux|||
+10-06-2018 | 10:54:24 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-06-2018 | 10:54:25 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 10:54:26 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 10:54:26 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 10:54:37 |   127.0.0.1|guest|All Order List|http://localhost:75/customer/all/order-list|Google Chrome|linux|||
+10-06-2018 | 10:54:47 |   127.0.0.1|guest|Customer Order|http://localhost:75/customer/order|Google Chrome|linux|||
+10-06-2018 | 10:55:28 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 10:55:30 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 10:55:31 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 10:55:32 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery|Google Chrome|linux|||
+10-06-2018 | 10:55:38 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery?customer=sa_label&customer_id=3&customer_ref=50000009.5|Google Chrome|linux|||
+10-06-2018 | 10:55:56 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery?customer=eto_tech&customer_id=2&customer_ref=50000008.5|Google Chrome|linux|||
+10-06-2018 | 10:56:24 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery?customer=kmr&customer_id=4&customer_ref=50000010.5|Google Chrome|linux|||
+10-06-2018 | 10:56:29 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 10:56:30 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 10:56:30 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 10:56:40 |   127.0.0.1|guest|Sales Report|http://localhost:75/sales/balance/report|Google Chrome|linux|||
+10-06-2018 | 10:56:46 |   127.0.0.1|guest|A/C Receivable Report|http://localhost:75/account-receivable/balance/report|Google Chrome|linux|||
+10-06-2018 | 10:56:51 |   127.0.0.1|guest|Purchase Report|http://localhost:75/purchase/balance/report|Google Chrome|linux|||
+10-06-2018 | 10:56:54 |   127.0.0.1|guest|A/C Payable Report|http://localhost:75/account-payable/balance/report|Google Chrome|linux|||
+10-06-2018 | 10:57:01 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-06-2018 | 10:57:20 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-06-2018 | 10:57:24 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 10:57:26 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 10:57:26 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 10:57:29 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction|Google Chrome|linux|||
+10-06-2018 | 10:57:40 |   127.0.0.1|guest|Inventory Stocks Transaction|http://localhost:75/inventory/stocks/trasansaction/list|Google Chrome|linux|||
+10-06-2018 | 10:58:09 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 10:58:10 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 10:58:11 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 10:58:19 |   127.0.0.1|guest|Inventory Stocks Transaction|http://localhost:75/inventory/stocks/trasansaction/list?cost_center=0&search_from=2010-02-02&search_to=2018-10-06|Google Chrome|linux|||
+10-06-2018 | 10:58:24 |   127.0.0.1|guest|Inventory Stocks Transaction|http://localhost:75/inventory/stocks/trasansaction/1/view|Google Chrome|linux|||
+10-06-2018 | 10:59:42 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 10:59:46 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 10:59:46 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 10:59:53 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-06-2018 | 10:59:59 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list?cost_center=&post_type=&search_from=2010-02-02&search_to=2018-10-06&user_name=|Google Chrome|linux|||
+10-06-2018 | 11:00:17 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction|Google Chrome|linux|||
+10-06-2018 | 11:00:24 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction?cost_center=&post_type=&search_from=2010-02-04&search_to=2018-10-06&user_name=|Google Chrome|linux|||
+10-06-2018 | 11:01:06 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction|Google Chrome|linux|||
+10-06-2018 | 11:01:13 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction?cost_center=&post_type=&search_from=2010-02-03&search_to=2018-10-06&user_name=|Google Chrome|linux|||
+10-06-2018 | 11:01:21 |   127.0.0.1|guest|All Ledger Transaction|http://localhost:75/all/journal/ledger|Google Chrome|linux|||
+10-06-2018 | 11:01:24 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 11:01:25 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 11:01:25 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 11:01:26 |   127.0.0.1|guest|All Ledger Transaction|http://localhost:75/all/journal/ledger|Google Chrome|linux|||
+10-06-2018 | 11:01:29 |   127.0.0.1|guest|Ledger Transaction Details|http://localhost:75/journal/debit-cerdit/details/id-10000004|Google Chrome|linux|||
+10-06-2018 | 11:01:37 |   127.0.0.1|guest|Ledger Transaction Details|http://localhost:75/journal/debit-cerdit/details/id-10000004?cost_center=0&search_from=2010-02-02&search_to=2018-10-06|Google Chrome|linux|||
+10-06-2018 | 11:01:58 |   127.0.0.1|guest|Ledger Transaction Details|http://localhost:75/journal/debit-cerdit/details/id-30000035|Google Chrome|linux|||
+10-06-2018 | 11:02:06 |   127.0.0.1|guest|Ledger Transaction Details|http://localhost:75/journal/debit-cerdit/details/id-30000035?cost_center=0&search_from=2010-02-03&search_to=2018-10-06|Google Chrome|linux|||
+10-06-2018 | 11:02:14 |   127.0.0.1|guest|Ledger Transaction Details|http://localhost:75/journal/debit-cerdit/details/id-30000035?cost_center=2&search_from=2010-02-03&search_to=2018-10-06|Google Chrome|linux|||
+10-06-2018 | 11:02:18 |   127.0.0.1|guest|Ledger Transaction Details|http://localhost:75/journal/debit-cerdit/details/id-30000035?cost_center=1&search_from=2010-02-03&search_to=2018-10-06|Google Chrome|linux|||
+10-06-2018 | 11:02:28 |   127.0.0.1|guest|All Ledger Transaction|http://localhost:75/all/journal/ledger|Google Chrome|linux|||
+10-06-2018 | 11:02:30 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction|Google Chrome|linux|||
+10-06-2018 | 11:02:37 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction?cost_center=&post_type=&search_from=2010-02-02&search_to=2018-10-06&user_name=|Google Chrome|linux|||
+10-06-2018 | 11:02:47 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction?cost_center=&page=6&post_type=&search_from=2010-02-02&search_to=2018-10-06&user_name=|Google Chrome|linux|||
+10-06-2018 | 11:02:55 |   127.0.0.1|guest|All Ledger Transaction|http://localhost:75/all/journal/ledger|Google Chrome|linux|||
+10-06-2018 | 11:03:03 |   127.0.0.1|guest|Ledger Transaction Details|http://localhost:75/journal/debit-cerdit/details/id-40000007|Google Chrome|linux|||
+10-06-2018 | 11:03:09 |   127.0.0.1|guest|Ledger Transaction Details|http://localhost:75/journal/debit-cerdit/details/id-40000007?cost_center=0&search_from=2010-02-02&search_to=2018-10-06|Google Chrome|linux|||
+10-06-2018 | 11:04:18 |   127.0.0.1|guest|Ledger Opening Balance|http://localhost:75/ledger/opening/balance|Google Chrome|linux|||
+10-06-2018 | 11:04:39 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 11:04:40 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 11:04:41 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 11:05:16 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction|Google Chrome|linux|||
+10-06-2018 | 11:05:33 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction?cost_center=&post_type=&search_from=2010-02-02&search_to=2018-10-06&user_name=|Google Chrome|linux|||
+10-06-2018 | 11:06:41 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return|Google Chrome|linux|||
+10-06-2018 | 11:06:49 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment|Google Chrome|linux|||
+10-06-2018 | 11:06:50 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment|Google Chrome|linux|||
+10-06-2018 | 11:07:00 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:08:04 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment/field/1/stocks-14|Google Chrome|linux|||
+10-06-2018 | 11:08:18 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment-method/cash|Google Chrome|linux|||
+10-06-2018 | 11:08:30 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment|Google Chrome|linux|||
+10-06-2018 | 11:08:31 |   127.0.0.1|guest|Supplier Payment Voucher|http://localhost:75/supplier/payment/voucher/view|Google Chrome|linux|||
+10-06-2018 | 11:08:37 |   127.0.0.1|guest|Supplier Payment Voucher|http://localhost:75/supplier/payment/voucher/print|Google Chrome|linux|||
+10-06-2018 | 11:08:44 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:09:16 |   127.0.0.1|guest|All Supplier|http://localhost:75/supplier/list|Google Chrome|linux|||
+10-06-2018 | 11:09:23 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return|Google Chrome|linux|||
+10-06-2018 | 11:09:31 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:09:41 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=13&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:09:55 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=12&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:10:19 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=12&stocks_transactions_id=5&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:10:25 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=12&stocks_transactions_id=5&stocks_transactions_id=5&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:10:39 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=12&stocks_transactions_id=5&stocks_transactions_id=5&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:10:41 |   127.0.0.1|guest|Purchase Return|http://localhost:75/supplier/purchase/return/invoice/stocks-tran-16|Google Chrome|linux|||
+10-06-2018 | 11:10:44 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=12&stocks_transactions_id=5&stocks_transactions_id=5&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:10:58 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=12&stocks_transactions_id=5&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:11:12 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=12&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:11:14 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=12&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:12:13 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=1&stocks_transactions_id=12&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:12:19 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=1&stocks_transactions_id=1&stocks_transactions_id=12&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:12:23 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=1&stocks_transactions_id=1&stocks_transactions_id=1&stocks_transactions_id=12&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:12:45 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=1&stocks_transactions_id=1&stocks_transactions_id=1&stocks_transactions_id=1&stocks_transactions_id=12&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:12:51 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=1&stocks_transactions_id=1&stocks_transactions_id=1&stocks_transactions_id=1&stocks_transactions_id=12&stocks_transactions_id=12&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:12:56 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return|Google Chrome|linux|||
+10-06-2018 | 11:12:59 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:13:04 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=1&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:13:19 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=1&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:13:20 |   127.0.0.1|guest|Purchase Return|http://localhost:75/supplier/purchase/return/invoice/stocks-tran-17|Google Chrome|linux|||
+10-06-2018 | 11:13:24 |   127.0.0.1|guest|Purchase Return|http://localhost:75/supplier/purchase/return/invoice/print/stocks-tran-17|Google Chrome|linux|||
+10-06-2018 | 11:13:32 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return|Google Chrome|linux|||
+10-06-2018 | 11:13:36 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:14:44 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-06-2018 | 11:14:54 |   127.0.0.1|guest|General Transaction Delete|http://localhost:75/general/transaction-list/delete/id-44/type-purchase_return|Google Chrome|linux|||
+10-06-2018 | 11:14:55 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-06-2018 | 11:14:56 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-06-2018 | 11:15:02 |   127.0.0.1|guest|General Transaction Delete|http://localhost:75/general/transaction-list/delete/id-43/type-purchase_return|Google Chrome|linux|||
+10-06-2018 | 11:15:03 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-06-2018 | 11:15:03 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-06-2018 | 11:15:08 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return|Google Chrome|linux|||
+10-06-2018 | 11:15:10 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:15:17 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:15:50 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=9&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:16:16 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=9&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:16:17 |   127.0.0.1|guest|Purchase Return|http://localhost:75/supplier/purchase/return/invoice/stocks-tran-18|Google Chrome|linux|||
+10-06-2018 | 11:16:20 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=9&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:16:22 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=9&supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:19:41 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment|Google Chrome|linux|||
+10-06-2018 | 11:19:43 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:23:25 |   127.0.0.1|guest|Customer Order|http://localhost:75/customer/order|Google Chrome|linux|||
+10-06-2018 | 11:23:38 |   127.0.0.1|guest|Order Receipt|http://localhost:75/customer/payment|Google Chrome|linux|||
+10-06-2018 | 11:23:42 |   127.0.0.1|guest|Order Receipt|http://localhost:75/customer/payment?customer=kmr&customer_id=4&customer_ref=50000010.5|Google Chrome|linux|||
+10-06-2018 | 11:23:47 |   127.0.0.1|guest|Customer Order Payment|http://localhost:75/ajax/payment/entry/9/1|Google Chrome|linux|||
+10-06-2018 | 11:23:56 |   127.0.0.1|guest|Customer Receipt|http://localhost:75/customer/payment-method/cash|Google Chrome|linux|||
+10-06-2018 | 11:24:02 |   127.0.0.1|guest|Receipt|http://localhost:75/customer/payment|Google Chrome|linux|||
+10-06-2018 | 11:24:03 |   127.0.0.1|guest|Customer Payment Voucher|http://localhost:75/customer/payment/voucher/view|Google Chrome|linux|||
+10-06-2018 | 11:24:09 |   127.0.0.1|guest|Order Receipt|http://localhost:75/customer/payment?customer=kmr&customer_id=4&customer_ref=50000010.5|Google Chrome|linux|||
+10-06-2018 | 11:25:29 |   127.0.0.1|guest|All Order List|http://localhost:75/customer/all/order-list|Google Chrome|linux|||
+10-06-2018 | 11:25:32 |   127.0.0.1|guest|All Customer|http://localhost:75/customer/list|Google Chrome|linux|||
+10-06-2018 | 11:25:39 |   127.0.0.1|guest|All Order List|http://localhost:75/customer/all/order-list|Google Chrome|linux|||
+10-06-2018 | 11:25:45 |   127.0.0.1|guest|All Order List|http://localhost:75/customer/all/order-list?_token=VWPwCV7Oesrletd37Ii1Hi6KQKvY3OG1ojcRI0EC&cost_center=&customer=&search_from=2010-02-03&search_to=2018-10-06|Google Chrome|linux|||
+10-06-2018 | 11:25:59 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery|Google Chrome|linux|||
+10-06-2018 | 11:26:03 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery?customer=kmr&customer_id=4&customer_ref=50000010.5|Google Chrome|linux|||
+10-06-2018 | 11:26:06 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery?customer=sa_label&customer_id=3&customer_ref=50000009.5|Google Chrome|linux|||
+10-06-2018 | 11:26:09 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery?customer=eto_tech&customer_id=2&customer_ref=50000008.5|Google Chrome|linux|||
+10-06-2018 | 11:26:20 |   127.0.0.1|guest|Order Receipt|http://localhost:75/customer/payment|Google Chrome|linux|||
+10-06-2018 | 11:26:22 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return|Google Chrome|linux|||
+10-06-2018 | 11:26:29 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return?customer=kmr&customer_id=4&customer_ref=50000010.5|Google Chrome|linux|||
+10-06-2018 | 11:26:37 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return|Google Chrome|linux|||
+10-06-2018 | 11:26:40 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return?customer=sa_label&customer_id=3&customer_ref=50000009.5|Google Chrome|linux|||
+10-06-2018 | 11:26:44 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return?customer=eto_tech&customer_id=2&customer_ref=50000008.5|Google Chrome|linux|||
+10-06-2018 | 11:26:47 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return?customer=ltech&customer_id=1&customer_ref=50000003.5|Google Chrome|linux|||
+10-06-2018 | 11:27:41 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return?customer=ltech&customer_id=1&customer_ref=50000003.5&customer_return_order_id=1&order_item_id=1|Google Chrome|linux|||
+10-06-2018 | 11:28:03 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return?customer=ltech&customer_id=1&customer_ref=50000003.5&customer_return_order_id=1&order_item_id=1|Google Chrome|linux|||
+10-06-2018 | 11:28:04 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return?customer=ltech&customer_id=1&customer_ref=50000003.5&customer_return_order_id=1&order_item_id=1|Google Chrome|linux|||
+10-06-2018 | 11:28:14 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return?customer=ltech&customer_id=1&customer_ref=50000003.5&customer_return_order_id=1&customer_return_order_id=4&order_item_id=1&order_item_id=4|Google Chrome|linux|||
+10-06-2018 | 11:28:34 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return?customer=ltech&customer_id=1&customer_ref=50000003.5&customer_return_order_id=1&customer_return_order_id=4&order_item_id=1&order_item_id=4|Google Chrome|linux|||
+10-06-2018 | 11:28:35 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return/invoice|Google Chrome|linux|||
+10-06-2018 | 11:28:43 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return?customer=ltech&customer_id=1&customer_ref=50000003.5&customer_return_order_id=1&customer_return_order_id=4&order_item_id=1&order_item_id=4|Google Chrome|linux|||
+10-06-2018 | 11:28:48 |   127.0.0.1|guest|Customer Sales Return|http://localhost:75/customer/sales/return?customer=ltech&customer_id=1&customer_ref=50000003.5&customer_return_order_id=1&order_item_id=1|Google Chrome|linux|||
+10-06-2018 | 11:32:03 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 11:32:05 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 11:32:05 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 11:32:19 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return|Google Chrome|linux|||
+10-06-2018 | 11:32:30 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:32:40 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment|Google Chrome|linux|||
+10-06-2018 | 11:32:43 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:36:21 |   127.0.0.1|guest|Inventory Purchase Invoice|http://localhost:75/inventory/purchase/invoice|Google Chrome|linux|||
+10-06-2018 | 11:36:44 |   127.0.0.1|guest|Supplier Registration Confirm|http://localhost:75/supplier/add|Google Chrome|linux|||
+10-06-2018 | 11:36:45 |   127.0.0.1|guest|Inventory Purchase Invoice|http://localhost:75/inventory/purchase/invoice|Google Chrome|linux|||
+10-06-2018 | 11:37:04 |   127.0.0.1|guest|Inventory Stocks Entry|http://localhost:75/inventory/purchase/invoice|Google Chrome|linux|||
+10-06-2018 | 11:37:05 |   127.0.0.1|guest|Purchase Invoice|http://localhost:75/inventory/purchase/invoice/view|Google Chrome|linux|||
+10-06-2018 | 11:37:11 |   127.0.0.1|guest|Inventory Purchase Invoice|http://localhost:75/inventory/purchase/invoice|Google Chrome|linux|||
+10-06-2018 | 11:37:24 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return|Google Chrome|linux|||
+10-06-2018 | 11:37:27 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?supplier=rtttr&supplier_id=2&supplier_ref=50000021.5|Google Chrome|linux|||
+10-06-2018 | 11:37:32 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=19&supplier=rtttr&supplier_id=2&supplier_ref=50000021.5|Google Chrome|linux|||
+10-06-2018 | 11:37:42 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=19&supplier=rtttr&supplier_id=2&supplier_ref=50000021.5|Google Chrome|linux|||
+10-06-2018 | 11:37:43 |   127.0.0.1|guest|Purchase Return|http://localhost:75/supplier/purchase/return/invoice/stocks-tran-20|Google Chrome|linux|||
+10-06-2018 | 11:37:46 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?stocks_transactions_id=19&supplier=rtttr&supplier_id=2&supplier_ref=50000021.5|Google Chrome|linux|||
+10-06-2018 | 11:37:54 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|linux|||
+10-06-2018 | 11:37:57 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?supplier=rtttr&supplier_id=2&supplier_ref=50000021.5|Google Chrome|linux|||
+10-06-2018 | 11:41:27 |   127.0.0.1|guest|Category Settings|http://localhost:75/inventory/category/settings|Google Chrome|linux|||
+10-06-2018 | 11:41:31 |   127.0.0.1|guest|Inventory Item|http://localhost:75/inventory/item/settings|Google Chrome|linux|||
+10-06-2018 | 11:41:34 |   127.0.0.1|guest|Inventory Purchase Invoice|http://localhost:75/inventory/purchase/invoice|Google Chrome|linux|||
+10-06-2018 | 11:41:44 |   127.0.0.1|guest|Inventory Stocks Item List|http://localhost:75/inventory/stock/item/list|Google Chrome|linux|||
+10-06-2018 | 11:42:23 |   127.0.0.1|guest|Inventory Stocks Transaction|http://localhost:75/inventory/stocks/trasansaction/list|Google Chrome|linux|||
+10-06-2018 | 11:42:52 |   127.0.0.1|guest|Inventory Stocks Summery List|http://localhost:75/stock/summery/list|Google Chrome|linux|||
+10-06-2018 | 11:43:16 |   127.0.0.1|guest|Inventory Stocks Transaction|http://localhost:75/inventory/stocks/trasansaction/list|Google Chrome|linux|||
+10-06-2018 | 11:43:22 |   127.0.0.1|guest|Inventory Finish-goods Entry|http://localhost:75/finish-goods/list|Google Chrome|linux|||
+10-06-2018 | 11:44:23 |   127.0.0.1|guest|Inventory Finish-goods Entry|http://localhost:75/finish-goods/list?item_id=6&order_id=6|Google Chrome|linux|||
+10-06-2018 | 11:44:34 |   127.0.0.1|guest|Inventory Stocks Finish goods|http://localhost:75/finish-goods/stocks-info/1|Google Chrome|linux|||
+10-06-2018 | 11:44:44 |   127.0.0.1|guest|Inventory Stocks Finish goods|http://localhost:75/finish-goods/field/2|Google Chrome|linux|||
+10-06-2018 | 11:44:46 |   127.0.0.1|guest|Inventory Stocks Finish goods|http://localhost:75/finish-goods/stocks-info/9|Google Chrome|linux|||
+10-06-2018 | 11:46:12 |   127.0.0.1|guest|Inventory Finish-goods Entry|http://localhost:75/finish-goods/list|Google Chrome|linux|||
+10-06-2018 | 11:46:13 |   127.0.0.1|guest|Inventory Finish-goods Entry|http://localhost:75/finish-goods/list|Google Chrome|linux|||
+10-06-2018 | 11:46:19 |   127.0.0.1|guest|Waste Goods Summery|http://localhost:75/delivery/finish-goods/list|Google Chrome|linux|||
+10-06-2018 | 11:46:34 |   127.0.0.1|guest|Waste Finish-goods|http://localhost:75/waste/finish-goods/id-5|Google Chrome|linux|||
+10-06-2018 | 11:46:42 |   127.0.0.1|guest|Waste Goods Summery|http://localhost:75/delivery/finish-goods/list|Google Chrome|linux|||
+10-06-2018 | 11:46:55 |   127.0.0.1|guest|Inventory Finish-goods Entry|http://localhost:75/finish-goods/list|Google Chrome|linux|||
+10-06-2018 | 11:47:16 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-06-2018 | 11:47:43 |   127.0.0.1|guest|Reports of Cash Flow|http://localhost:75/reports/cash-flow|Google Chrome|linux|||
+10-06-2018 | 11:47:50 |   127.0.0.1|guest|Sales Report|http://localhost:75/sales/balance/report|Google Chrome|linux|||
+10-06-2018 | 11:47:54 |   127.0.0.1|guest|A/C Receivable Report|http://localhost:75/account-receivable/balance/report|Google Chrome|linux|||
+10-06-2018 | 11:47:57 |   127.0.0.1|guest|Purchase Report|http://localhost:75/purchase/balance/report|Google Chrome|linux|||
+10-06-2018 | 11:48:01 |   127.0.0.1|guest|Inventory Stocks Summery List|http://localhost:75/stock/summery/list|Google Chrome|linux|||
+10-06-2018 | 11:48:06 |   127.0.0.1|guest|Finish Goods Summery List|http://localhost:75/finish-goods/summery/list|Google Chrome|linux|||
+10-06-2018 | 11:48:17 |   127.0.0.1|guest|Manufacturing Report|http://localhost:75/manufacturing/report|Google Chrome|linux|||
+10-06-2018 | 11:48:35 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report|Google Chrome|linux|||
+10-06-2018 | 11:48:52 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report?cost_center=0&search_from=2010-02-02&search_to=2018-10-06|Google Chrome|linux|||
+10-06-2018 | 11:49:17 |   127.0.0.1|guest|Report of Trail Balance|http://localhost:75/trail/balance/report|Google Chrome|linux|||
+10-06-2018 | 11:49:21 |   127.0.0.1|guest|Report of Trail Balance|http://localhost:75/trail/balance/report|Google Chrome|linux|||
+10-06-2018 | 11:49:39 |   127.0.0.1|guest|Report of Trail Balance|http://localhost:75/trail/balance/report?_token=VWPwCV7Oesrletd37Ii1Hi6KQKvY3OG1ojcRI0EC&cost_center_id=0&search_from=2012-04-04&search_to=2018-10-06|Google Chrome|linux|||
+10-06-2018 | 11:50:10 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-06-2018 | 11:52:10 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report|Google Chrome|linux|||
+10-06-2018 | 11:52:53 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report?cost_center=0&search_from=2010-02-03&search_to=2018-10-05|Google Chrome|linux|||
+10-06-2018 | 11:53:39 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-06-2018 | 11:53:47 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet?cost_center=0&search_from=2018-09-30&search_to=2018-10-05|Google Chrome|linux|||
+10-06-2018 | 11:54:00 |   127.0.0.1|guest|Accounts|http://localhost:75/journal/ledger-10000003/depth-1|Google Chrome|linux|||
+10-06-2018 | 11:54:09 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 11:54:10 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 11:54:10 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 11:54:14 |   127.0.0.1|guest|Ledger Opening Balance|http://localhost:75/ledger/opening/balance|Google Chrome|linux|||
+10-06-2018 | 11:54:30 |   127.0.0.1|guest|Ajax Ledger Opening Balance|http://localhost:75/ajax/opening/balance/id-20000008/depth-2|Google Chrome|linux|||
+10-06-2018 | 11:54:48 |   127.0.0.1|guest|Ajax Ledger Opening Balance|http://localhost:75/ajax/opening/balance/id-20000008/depth-2|Google Chrome|linux|||
+10-06-2018 | 11:54:54 |   127.0.0.1|guest|Ledger Opening Balance Confirm|http://localhost:75/ledger/opening/balance-confirm|Google Chrome|linux|||
+10-06-2018 | 11:54:55 |   127.0.0.1|guest|Ledger Opening Balance|http://localhost:75/ledger/opening/balance|Google Chrome|linux|||
+10-06-2018 | 11:55:05 |   127.0.0.1|guest|Ledger Opening Balance|http://localhost:75/ledger/opening/balance|Google Chrome|linux|||
+10-06-2018 | 11:55:06 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-06-2018 | 11:55:38 |   127.0.0.1|guest|Ajax Ledger Opening Balance|http://localhost:75/ajax/opening/balance/id-30000033/depth-3|Google Chrome|linux|||
+10-06-2018 | 11:55:43 |   127.0.0.1|guest|Ledger Opening Balance|http://localhost:75/ledger/opening/balance|Google Chrome|linux|||
+10-06-2018 | 11:56:00 |   127.0.0.1|guest|Ajax Ledger Opening Balance|http://localhost:75/ajax/opening/balance/id-20000008/depth-2|Google Chrome|linux|||
+10-06-2018 | 11:56:04 |   127.0.0.1|guest|Ledger Opening Balance Confirm|http://localhost:75/ledger/opening/balance-confirm|Google Chrome|linux|||
+10-06-2018 | 11:56:05 |   127.0.0.1|guest|Ledger Opening Balance|http://localhost:75/ledger/opening/balance|Google Chrome|linux|||
+10-06-2018 | 11:56:11 |   127.0.0.1|guest|Ajax Ledger Opening Balance|http://localhost:75/ajax/opening/balance/id-30000033/depth-3|Google Chrome|linux|||
+10-06-2018 | 11:56:23 |   127.0.0.1|guest|Ledger Opening Balance Confirm|http://localhost:75/ledger/opening/balance-confirm|Google Chrome|linux|||
+10-06-2018 | 11:56:27 |   127.0.0.1|guest|Ledger Opening Balance|http://localhost:75/ledger/opening/balance|Google Chrome|linux|||
+10-06-2018 | 11:56:32 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-06-2018 | 11:57:31 |   127.0.0.1|guest|Ajax Ledger Opening Balance|http://localhost:75/ajax/opening/balance/id-30000033/depth-3|Google Chrome|linux|||
+10-06-2018 | 11:57:40 |   127.0.0.1|guest|Ledger Opening Balance Confirm|http://localhost:75/ledger/opening/balance-confirm|Google Chrome|linux|||
+10-06-2018 | 11:57:41 |   127.0.0.1|guest|Ledger Opening Balance|http://localhost:75/ledger/opening/balance|Google Chrome|linux|||
+10-06-2018 | 11:57:44 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-06-2018 | 11:58:13 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet?cost_center=0&search_from=2018-10-01&search_to=2018-10-05|Google Chrome|linux|||
+10-06-2018 | 11:59:05 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-06-2018 | 11:59:12 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/10000001/group-1|Google Chrome|linux|||
+10-06-2018 | 11:59:14 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/20000001/group-2|Google Chrome|linux|||
+10-06-2018 | 11:59:18 |   127.0.0.1|guest|Accounts|http://localhost:75/journal/ledger-30000005/depth-3|Google Chrome|linux|||
+10-06-2018 | 11:59:32 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/10000001/group-1|Google Chrome|linux|||
+10-06-2018 | 11:59:35 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/20000001/group-2|Google Chrome|linux|||
+10-06-2018 | 11:59:39 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/30000001/group-3|Google Chrome|linux|||
+10-06-2018 | 11:59:43 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/40000005/group-4|Google Chrome|linux|||
+10-06-2018 | 11:59:55 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/40000005/group-4|Google Chrome|linux|||
+10-06-2018 | 12:00:04 |   127.0.0.1|guest|Accounts|http://localhost:75/journal/ledger-50000003/depth-5|Google Chrome|linux|||
+10-06-2018 | 12:00:18 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/10000001/group-1|Google Chrome|linux|||
+10-06-2018 | 12:00:20 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/20000001/group-2|Google Chrome|linux|||
+10-06-2018 | 12:00:23 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/20000002/group-2|Google Chrome|linux|||
+10-06-2018 | 12:00:28 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/20000001/group-2|Google Chrome|linux|||
+10-06-2018 | 12:00:31 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/30000001/group-3|Google Chrome|linux|||
+10-06-2018 | 12:00:33 |   127.0.0.1|guest|Journal Posting|http://localhost:75/journal/sub-group/40000005/group-4|Google Chrome|linux|||
+10-06-2018 | 12:01:46 |   127.0.0.1|guest|Accounts|http://localhost:75/journal/ledger-30000006/depth-3|Google Chrome|linux|||
+10-06-2018 | 12:02:02 |   127.0.0.1|guest|Accounts|http://localhost:75/journal/ledger-30000006/depth-3|Google Chrome|linux|||
+10-06-2018 | 12:02:04 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 12:02:05 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 12:02:05 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 12:02:15 |   127.0.0.1|guest|Supplier Payment|http://localhost:75/supplier/payment|Google Chrome|linux|||
+10-06-2018 | 12:02:20 |   127.0.0.1|guest|A/C Receivable Report|http://localhost:75/account-receivable/balance/report|Google Chrome|linux|||
+10-06-2018 | 12:02:37 |   127.0.0.1|guest|Sales Report|http://localhost:75/sales/balance/report|Google Chrome|linux|||
+10-06-2018 | 12:02:37 |   127.0.0.1|guest|Sales Report|http://localhost:75/sales/balance/report|Google Chrome|linux|||
+10-06-2018 | 12:02:45 |   127.0.0.1|guest|A/C Receivable Report|http://localhost:75/account-receivable/balance/report|Google Chrome|linux|||
+10-06-2018 | 12:02:54 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-06-2018 | 12:03:05 |   127.0.0.1|guest|General Transaction Edit|http://localhost:75/general/transaction-list/edit/id-50/type-purchase_return|Google Chrome|linux|||
+10-06-2018 | 12:03:55 |   127.0.0.1|guest|General Transaction Update|http://localhost:75/general/transaction-list/update|Google Chrome|linux|||
+10-06-2018 | 12:03:56 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-06-2018 | 12:04:07 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return|Google Chrome|linux|||
+10-06-2018 | 12:04:12 |   127.0.0.1|guest|Supplier Purchase Return|http://localhost:75/supplier/purchase/return?supplier=rtttr&supplier_id=2&supplier_ref=50000021.5|Google Chrome|linux|||
+10-06-2018 | 12:05:20 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 12:05:21 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 12:05:21 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 12:05:35 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-06-2018 | 12:06:48 |   127.0.0.1|guest|LogIn|http://localhost:75|Google Chrome|linux|||
+10-06-2018 | 12:06:49 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 12:06:51 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 12:06:51 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-06-2018 | 12:15:58 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-06-2018 | 12:16:02 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-06-2018 | 12:16:02 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||

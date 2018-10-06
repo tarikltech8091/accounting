@@ -1,0 +1,15 @@
+01-20-2018 | 13:47:52 |   45.123.42.137|1|Log In|Google Chrome|windows|||
+01-20-2018 | 13:52:22 |   45.123.42.137|1|Log Out|Google Chrome|windows|||
+01-20-2018 | 13:56:12 |   45.123.42.137|1|Log In|Google Chrome|windows|||
+01-20-2018 | 13:58:25 |   45.123.42.137|1|Log In|Google Chrome|windows|||
+01-20-2018 | 14:01:10 |   45.123.42.137|1|Log In|Google Chrome|windows|||
+01-20-2018 | 14:02:02 |   45.123.42.137|1|Log In|Google Chrome|windows|||
+01-20-2018 | 15:52:03 |   45.123.42.137|1|Log In|Google Chrome|windows|||
+01-20-2018 | 15:52:20 |   45.123.42.137|1|Log Out|Google Chrome|windows|||
+01-20-2018 | 15:53:17 |   45.123.42.137|1|Log In|Google Chrome|windows|||
+01-20-2018 | 15:53:45 |   45.123.42.137|1|Log Out|Google Chrome|windows|||
+01-20-2018 | 15:57:00 |   45.123.42.137|1|Log In|Google Chrome|windows|||
+01-20-2018 | 16:09:25 |   45.123.42.137|1|Log Out|Google Chrome|windows|||
+01-20-2018 | 16:11:06 |   45.123.42.137|1|Log In|Google Chrome|windows|||
+01-20-2018 | 16:19:59 |   45.123.42.137|17|Log In|Apple Safari|mac|||
+01-20-2018 | 16:21:16 |   45.123.42.137|1|Log Out|Google Chrome|windows|||

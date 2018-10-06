@@ -1,0 +1,21 @@
+02-03-2018 | 11:51:56 |   103.96.36.154|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+02-03-2018 | 11:52:08 |   103.96.36.154|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+02-03-2018 | 11:52:10 |   103.96.36.154|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+02-03-2018 | 11:52:24 |   103.96.36.154|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+02-03-2018 | 11:52:24 |   103.96.36.154|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+02-03-2018 | 12:27:28 |   103.96.36.154|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+02-03-2018 | 12:27:29 |   103.96.36.154|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+02-03-2018 | 12:27:34 |   103.96.36.154|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+02-03-2018 | 12:27:36 |   103.96.36.154|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+02-03-2018 | 12:27:56 |   103.96.36.154|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+02-03-2018 | 12:27:58 |   103.96.36.154|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+02-03-2018 | 12:28:46 |   103.96.36.154|guest|User Profile|http://accounts.dftexltd.com/user/profile/view/id-15|Google Chrome|windows|||
+02-03-2018 | 12:28:57 |   103.96.36.154|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+02-03-2018 | 12:29:04 |   103.96.36.154|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+02-03-2018 | 12:57:19 |   103.96.36.154|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+02-03-2018 | 12:57:30 |   103.96.36.154|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+02-03-2018 | 12:57:30 |   103.96.36.154|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+02-03-2018 | 14:43:49 |   103.96.36.154|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+02-03-2018 | 14:43:50 |   103.96.36.154|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+02-03-2018 | 14:44:18 |   103.96.36.154|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+02-03-2018 | 14:44:19 |   103.96.36.154|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||

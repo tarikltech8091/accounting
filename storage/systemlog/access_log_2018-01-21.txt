@@ -1,0 +1,5 @@
+01-21-2018 | 09:42:51 |   180.234.42.119|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|mac|||
+01-21-2018 | 10:42:44 |   119.30.47.100|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|mac|||
+01-21-2018 | 10:43:18 |   119.30.47.100|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-21-2018 | 10:43:20 |   119.30.47.100|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||
+01-21-2018 | 10:43:45 |   119.30.47.100|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|mac|||

@@ -1,0 +1,11 @@
+10-22-2017 | 11:46:51 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+10-22-2017 | 19:24:22 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+10-22-2017 | 19:24:28 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+10-22-2017 | 19:24:30 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+10-22-2017 | 19:24:40 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+10-22-2017 | 19:24:40 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+10-22-2017 | 19:24:41 |   103.88.232.210|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Google Chrome|windows|||
+10-22-2017 | 19:24:45 |   103.88.232.210|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Google Chrome|windows|||
+10-22-2017 | 19:24:48 |   103.88.232.210|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|||
+10-22-2017 | 19:25:01 |   103.88.232.210|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Google Chrome|windows|||
+10-22-2017 | 19:25:04 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||

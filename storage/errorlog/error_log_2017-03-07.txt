@@ -1,0 +1,20 @@
+03-07-2017 | 12:05:16 |   Message : Trying to get property of non-object (View: /home2/sharif/accounts_dftex/resources/views/pages/reports/stock-summary-list.blade.php), File : /home2/sharif/accounts_dftex/storage/framework/views/0e100cce5f47c8f7857b6d3e238512a2b4e34a2e.php, Line : 184
+03-07-2017 | 13:05:25 |   Message : Trying to get property of non-object (View: /home2/sharif/accounts_dftex/resources/views/pages/reports/stock-summary-list.blade.php), File : /home2/sharif/accounts_dftex/storage/framework/views/0e100cce5f47c8f7857b6d3e238512a2b4e34a2e.php, Line : 184
+03-07-2017 | 13:06:14 |   Message : Trying to get property of non-object (View: /home2/sharif/accounts_dftex/resources/views/pages/reports/stock-summary-list.blade.php), File : /home2/sharif/accounts_dftex/storage/framework/views/0e100cce5f47c8f7857b6d3e238512a2b4e34a2e.php, Line : 184
+03-07-2017 | 13:07:37 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 13:07:43 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 13:08:01 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 13:08:06 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 13:08:11 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 13:10:54 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 13:12:00 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 13:13:19 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 13:21:30 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 13:48:28 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 16:26:31 |   Message : Unauthenticated., File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php, Line : 39
+03-07-2017 | 16:26:43 |   Message : Unauthenticated., File : /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php, Line : 39
+03-07-2017 | 16:27:42 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 17:19:12 |   Message : Trying to get property of non-object (View: /home2/sharif/accounts_dftex/resources/views/pages/reports/stock-summary-list.blade.php), File : /home2/sharif/accounts_dftex/storage/framework/views/0e100cce5f47c8f7857b6d3e238512a2b4e34a2e.php, Line : 184
+03-07-2017 | 17:19:19 |   Message : Trying to get property of non-object (View: /home2/sharif/accounts_dftex/resources/views/pages/reports/stock-summary-list.blade.php), File : /home2/sharif/accounts_dftex/storage/framework/views/0e100cce5f47c8f7857b6d3e238512a2b4e34a2e.php, Line : 184
+03-07-2017 | 18:31:01 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714
+03-07-2017 | 18:31:06 |   Message : syntax error, unexpected end of file, File : /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php, Line : 714  

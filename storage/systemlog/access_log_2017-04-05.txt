@@ -1,0 +1,18 @@
+04-05-2017 | 11:58:07 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||
+04-05-2017 | 19:25:00 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-05-2017 | 19:25:25 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-05-2017 | 19:25:27 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+04-05-2017 | 19:25:30 |   103.58.74.234|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+04-05-2017 | 19:25:33 |   103.58.74.234|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+04-05-2017 | 19:25:47 |   103.58.74.234|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|||
+04-05-2017 | 19:25:51 |   103.58.74.234|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Google Chrome|windows|||
+04-05-2017 | 19:25:54 |   103.58.74.234|guest|All Supplier|http://accounts.dftexltd.com/supplier/list|Google Chrome|windows|||
+04-05-2017 | 19:26:04 |   103.58.74.234|guest|Edit Supplier List|http://accounts.dftexltd.com/edit/supplier/id-1|Google Chrome|windows|||
+04-05-2017 | 19:26:31 |   103.58.74.234|guest|All Supplier|http://accounts.dftexltd.com/supplier/list|Google Chrome|windows|||
+04-05-2017 | 19:26:43 |   103.58.74.234|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+04-05-2017 | 19:34:28 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-05-2017 | 19:34:29 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+04-05-2017 | 19:34:40 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+04-05-2017 | 19:34:40 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+04-05-2017 | 19:50:10 |   103.58.74.234|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Google Chrome|windows|||
+04-05-2017 | 19:50:11 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||

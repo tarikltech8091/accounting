@@ -1,0 +1,6 @@
+08-03-2017 | 12:48:34 |   45.123.43.26|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+08-03-2017 | 12:48:34 |   45.123.43.26|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+08-03-2017 | 12:48:45 |   45.123.43.26|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+08-03-2017 | 12:48:47 |   45.123.43.26|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+08-03-2017 | 12:48:57 |   45.123.43.26|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+08-03-2017 | 12:48:57 |   45.123.43.26|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||

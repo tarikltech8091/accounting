@@ -1,0 +1,9 @@
+06-07-2017 | 19:52:33 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+06-07-2017 | 19:52:45 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+06-07-2017 | 19:52:46 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+06-07-2017 | 19:52:55 |   103.58.74.234|guest|All Customer|http://accounts.dftexltd.com/customer/list|Google Chrome|windows|||
+06-07-2017 | 19:53:05 |   103.58.74.234|guest|Edit Customer List|http://accounts.dftexltd.com/edit/customer/id-2|Google Chrome|windows|||
+06-07-2017 | 19:53:21 |   103.58.74.234|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|||
+06-07-2017 | 19:54:23 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+06-07-2017 | 19:54:33 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+06-07-2017 | 19:54:33 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||

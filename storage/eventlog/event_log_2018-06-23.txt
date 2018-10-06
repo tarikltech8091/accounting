@@ -1,0 +1,1 @@
+06-23-2018 | 17:27:59 |   103.88.232.210|1|http://accounts.dftexltd.com/update/customer/id-1|update|{"customer_name":"ABC","customer_mobile":"01912582254","customer_email":"b@gmail.com","customer_tax_reg_no":"34256","customer_address":"Mothijheel","updated_at":"2018-06-23 17:27:59","updated_by":1}

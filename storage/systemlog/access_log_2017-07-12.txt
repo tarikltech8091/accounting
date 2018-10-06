@@ -1,0 +1,39 @@
+07-12-2017 | 15:01:19 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+07-12-2017 | 15:02:02 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:02:03 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:02:34 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:02:35 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:03:44 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:03:45 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:04:15 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:04:16 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:18:31 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+07-12-2017 | 15:19:10 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:19:10 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:19:48 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:19:48 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:20:21 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+07-12-2017 | 15:20:50 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:20:51 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:21:46 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:21:47 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:23:33 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:23:34 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:25:49 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:25:50 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:31:09 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:31:09 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:31:48 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 15:31:49 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-12-2017 | 17:53:24 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+07-12-2017 | 17:54:10 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+07-12-2017 | 17:54:11 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||
+07-12-2017 | 17:54:26 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||
+07-12-2017 | 17:54:26 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||
+07-12-2017 | 17:55:17 |   203.188.243.150|guest|Sales Report|http://accounts.dftexltd.com/sales/balance/report|Mozilla Firefox|windows|||
+07-12-2017 | 18:00:42 |   203.188.243.150|guest|Sales Report|http://accounts.dftexltd.com/sales/balance/report|Mozilla Firefox|windows|||
+07-12-2017 | 18:01:00 |   203.188.243.150|guest|Sales Report|http://accounts.dftexltd.com/sales/balance/report|Mozilla Firefox|windows|||
+07-12-2017 | 18:01:48 |   203.188.243.150|guest|Sales Report|http://accounts.dftexltd.com/sales/balance/report?_token=2ZHA2N3pzUaptgodJdCl4KpspBBmq9VEKcpzggQD&cost_center=0&search_from=2016-03-27&search_to=2017-07-12|Mozilla Firefox|windows|||
+07-12-2017 | 18:02:28 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||
+07-12-2017 | 18:02:43 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||
+07-12-2017 | 18:02:43 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||

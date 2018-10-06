@@ -1,0 +1,244 @@
+/*
+###############
+## Custom CSS
+###############
+*/
+
+.panel-tools .btn-link {
+  color: #a47441;
+  font-size: 18px;
+	line-height: 1.3;
+	padding: 0 5px;
+}
+
+.loading .progress{
+	margin-bottom: 0px;
+	height: 10px;
+}
+
+.treebtn {
+  font-size: 16px;
+  margin-right: 10px;
+  cursor:pointer;
+  
+}
+
+.treebtn:hover{
+	color: #982672;
+	font-size: 20px;
+}
+.dd-handle{
+	cursor:pointer;
+}
+
+#nestable2 .dd-handle:hover{
+  background-color: #383838;
+  border: 1px solid #999;
+  color: #fff;
+  cursor:pointer;
+}
+.journal_posting .form-group label {
+  font-weight: bold;
+padding: 3px;
+}
+
+
+
+.journal_posting .page-header {
+  font-weight: bold;
+  margin: 1px 0;
+  padding-bottom: 3px;
+  color: #3d9400;
+}
+
+#add_ledger p, #add_sub_ledger p {
+  padding-top: 3%;
+  text-align: right;
+}
+
+.debit_remove_btn,.credit_remove_btn,.debit_add_btn,.credit_add_btn{
+  margin-top: 22px;
+}
+
+.debit_body {
+  border-bottom: 2px dashed #cacac5;
+  padding-bottom: 9px;
+}
+
+.credit_body {
+
+  padding-top: 9px;
+}
+
+.posting_sidebar ul li{
+  font-size: 22px;
+}
+.posting_sidebar ul li.active{
+  border-left: 2px solid #3d9400;
+}
+
+.posting_sidebar ul li a:hover,.posting_sidebar ul li a:active,.posting_sidebar ul li a:focus{
+  background-color: #f2f1f7;
+  border-right: 1px solid #fff;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+}
+.posting-btn{
+  float: right;
+}
+.posting-btn a{
+
+  color: #ffffff;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+
+.posting-btn .btn{
+  padding: 2px 12px;
+}
+
+.form-field{
+  margin-top:10px;
+}
+
+/*Inventory Entry*/
+.inventory_stocks_td{
+  width: 20%;
+}
+
+/*Stocks Ttransaction*/
+.invoice .invoice-logo p {
+  font-size: 14px;
+  padding: 0;
+  text-align: right;
+}
+.stck_transaction_no{
+  margin-top: 3.5%;
+padding-right: 20px;
+text-align: right;
+}
+.invoice-block{
+  padding-bottom: 5%;
+}
+.purchase_invoce .well{
+  padding: 3px 5px;
+}
+
+.purchase_invoce address{
+  margin-bottom: 2px;
+}
+
+.purchase_invoice_tbl span{
+  padding-left: 8%;
+}
+
+/*.payment_voucher_tbl .table th {
+  border-top: 1px solid #000;
+  border-top: 1px solid #000 !important;
+  border: 1px solid #000 !important;
+  text-align: center;
+}*/
+
+
+.col-md-12.cashflow_Conatainer{
+  background-color: #ebebeb;
+  border: 1px solid #ebebeb;
+  border-radius: 7px;
+  padding: 20px 15px;
+}
+
+.invoice .invoice-logo {
+  margin-bottom: 0px;
+}
+
+.cashflow_Conatainer .table{
+  background: #ffffff none repeat scroll 0 0;
+  color: #000;
+}
+
+.cashflow_Conatainer .table tr th{
+  color: #000;
+  text-align: center;
+}
+ .graph_donut{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+#page-sidebar{
+  right: -350px;
+
+    width: 350px;
+}
+.dashboard_btn .core-box{
+  cursor: pointer;
+}
+
+#client {
+background: #eeeeee none repeat scroll 0 0;
+border-left: 4px solid #0087c3;
+font-size: 24px;
+height: 27px;
+margin-bottom: 15px;
+text-align: center;
+width: 99%;
+}
+
+#client .to {
+  color: #777777;
+}
+
+#dashboard {
+background: #abb6ba none repeat scroll 0 0;
+border-left: 4px solid #0087c3;
+font-size: 18px;
+height: 27px;
+margin-bottom: 15px;
+text-align: center;
+width: 99%;
+}
+
+#dashboard .to {
+  color: #000000;
+}
+
+#myInput {
+  background-image: url('../images/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+}
+
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myUL li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block
+}
+
+#myUL li a.header {
+  background-color: #e2e2e2;
+  cursor: default;
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #eee;
+}
+
+  

@@ -1,0 +1,4 @@
+04-11-2017 | 10:08:17 |   45.251.231.62|guest|All Order List|http://www.accounts.dftexltd.com/customer/all/order-list|Apple Safari|Phone|||
+04-11-2017 | 17:32:41 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-11-2017 | 18:42:38 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-11-2017 | 18:48:53 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||

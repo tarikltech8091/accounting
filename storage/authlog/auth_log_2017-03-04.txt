@@ -1,0 +1,5 @@
+03-04-2017 | 13:42:43 |   203.188.243.150|1|Log In|Mozilla Firefox|windows|||Bangladesh
+03-04-2017 | 14:58:27 |   103.4.146.142|1|Log In|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-04-2017 | 18:12:42 |   103.58.74.234|14|Log In|Apple Safari|Phone|Dhaka|Dhaka|Bangladesh
+03-04-2017 | 18:13:21 |   103.58.74.234|14|Log In|Apple Safari|Phone|Dhaka|Dhaka|Bangladesh
+03-04-2017 | 18:13:45 |   103.58.74.234|14|Log In|Apple Safari|Phone|Dhaka|Dhaka|Bangladesh

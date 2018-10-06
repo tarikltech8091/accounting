@@ -1,0 +1,6 @@
+05-12-2018 | 22:30:11 |   45.251.231.62|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+05-12-2018 | 22:30:19 |   45.251.231.62|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+05-12-2018 | 22:30:21 |   45.251.231.62|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+05-12-2018 | 22:30:27 |   45.251.231.62|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+05-12-2018 | 22:30:30 |   45.251.231.62|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+05-12-2018 | 22:30:32 |   45.251.231.62|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||

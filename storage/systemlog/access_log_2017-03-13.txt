@@ -1,0 +1,7 @@
+03-13-2017 | 10:22:55 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-13-2017 | 10:22:57 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-13-2017 | 10:23:03 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-13-2017 | 10:23:05 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-13-2017 | 10:23:06 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-13-2017 | 10:23:07 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+03-13-2017 | 10:23:07 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh

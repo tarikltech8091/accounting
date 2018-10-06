@@ -1,0 +1,15 @@
+11-21-2017 | 11:38:08 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+11-21-2017 | 11:38:08 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+11-21-2017 | 11:38:22 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+11-21-2017 | 11:38:24 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+11-21-2017 | 11:38:35 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+11-21-2017 | 11:38:35 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+11-21-2017 | 11:39:14 |   103.88.232.210|guest|All Supplier|http://accounts.dftexltd.com/supplier/list|Google Chrome|windows|||
+11-21-2017 | 11:39:22 |   103.88.232.210|guest|Edit Supplier List|http://accounts.dftexltd.com/edit/supplier/id-1|Google Chrome|windows|||
+11-21-2017 | 11:39:32 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+11-21-2017 | 11:39:34 |   103.88.232.210|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+11-21-2017 | 11:39:40 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+11-21-2017 | 11:39:48 |   103.88.232.210|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Google Chrome|windows|||
+11-21-2017 | 11:40:14 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+11-21-2017 | 11:40:24 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+11-21-2017 | 11:40:24 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||

@@ -1,0 +1,42 @@
+07-16-2017 | 12:05:16 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+07-16-2017 | 12:05:31 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-16-2017 | 12:05:33 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-16-2017 | 12:05:48 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+07-16-2017 | 12:05:48 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+07-16-2017 | 12:06:09 |   103.58.74.234|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+07-16-2017 | 12:06:11 |   103.58.74.234|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+07-16-2017 | 12:06:31 |   103.58.74.234|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Google Chrome|windows|||
+07-16-2017 | 12:06:50 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Google Chrome|windows|||
+07-16-2017 | 12:07:22 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|||
+07-16-2017 | 12:08:23 |   103.58.74.234|guest|Inventory Stocks Item List|http://accounts.dftexltd.com/inventory/stock/item/list|Google Chrome|windows|||
+07-16-2017 | 12:08:36 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|||
+07-16-2017 | 12:09:06 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|||
+07-16-2017 | 12:09:55 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|||
+07-16-2017 | 12:10:26 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=7&order_id=7|Google Chrome|windows|||
+07-16-2017 | 12:11:55 |   103.58.74.234|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|||
+07-16-2017 | 12:12:00 |   103.58.74.234|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Google Chrome|windows|||
+07-16-2017 | 12:13:15 |   103.58.74.234|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|windows|||
+07-16-2017 | 12:13:48 |   103.58.74.234|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|windows|||
+07-16-2017 | 12:14:31 |   103.58.74.234|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Google Chrome|windows|||
+07-16-2017 | 12:16:37 |   103.58.74.234|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Google Chrome|windows|||
+07-16-2017 | 12:16:50 |   103.58.74.234|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment|Google Chrome|windows|||
+07-16-2017 | 12:17:54 |   103.58.74.234|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return|Google Chrome|windows|||
+07-16-2017 | 12:18:28 |   103.58.74.234|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return?customer=kmr&customer_id=4&customer_ref=50000010.5|Google Chrome|windows|||
+07-16-2017 | 12:19:56 |   103.58.74.234|guest|All Order List|http://accounts.dftexltd.com/customer/all/order-list|Google Chrome|windows|||
+07-16-2017 | 12:20:13 |   103.58.74.234|guest|All Customer|http://accounts.dftexltd.com/customer/list|Google Chrome|windows|||
+07-16-2017 | 12:20:26 |   103.58.74.234|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|||
+07-16-2017 | 12:20:52 |   103.58.74.234|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Google Chrome|windows|||
+07-16-2017 | 12:20:57 |   103.58.74.234|guest|Journal|http://accounts.dftexltd.com/journal/transaction|Google Chrome|windows|||
+07-16-2017 | 12:21:06 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-16-2017 | 12:21:20 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+07-16-2017 | 12:21:20 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+07-16-2017 | 12:21:26 |   103.58.74.234|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+07-16-2017 | 13:07:24 |   103.58.74.234|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+07-16-2017 | 13:07:42 |   103.58.74.234|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Google Chrome|windows|||
+07-16-2017 | 13:07:43 |   103.58.74.234|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Google Chrome|windows|||
+07-16-2017 | 13:07:49 |   103.58.74.234|guest|Journal|http://accounts.dftexltd.com/journal/transaction|Google Chrome|windows|||
+07-16-2017 | 13:07:53 |   103.58.74.234|guest|All Ledger Transaction|http://accounts.dftexltd.com/all/journal/ledger|Google Chrome|windows|||
+07-16-2017 | 13:07:58 |   103.58.74.234|guest|Ledger Transaction Details|http://accounts.dftexltd.com/journal/debit-cerdit/details/id-10000004|Google Chrome|windows|||
+07-16-2017 | 13:08:12 |   103.58.74.234|guest|Ledger Transaction Details|http://accounts.dftexltd.com/journal/debit-cerdit/details/id-30000036|Google Chrome|windows|||
+07-16-2017 | 15:25:23 |   103.58.74.234|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Google Chrome|windows|||
+07-16-2017 | 15:25:24 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||

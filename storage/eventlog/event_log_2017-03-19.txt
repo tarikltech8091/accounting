@@ -1,0 +1,2 @@
+03-19-2017 | 17:12:00 |   203.188.243.150|1|http://accounts.dftexltd.com/ledger/opening/balance-confirm|update,ltech_ledger_group_3|{"ledger_debit":"0.00","ledger_credit":"0","updated_by":1,"updated_at":"2017-03-19"}
+03-19-2017 | 17:12:13 |   203.188.243.150|1|http://accounts.dftexltd.com/ledger/opening/balance-confirm|update,ltech_ledger_group_4|{"ledger_debit":"0","ledger_credit":"0.00","updated_by":1,"updated_at":"2017-03-19"}

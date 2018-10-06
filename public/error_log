@@ -1,0 +1,435 @@
+[01-Mar-2017 10:31:53 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:31:53 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(S in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:32:16 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:32:16 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(S in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:34:08 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:34:08 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(S in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:34:25 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:34:25 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(S in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:34:28 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:34:28 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(S in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:35:02 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:35:02 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(S in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:35:44 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:35:44 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(S in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:35:59 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 10:35:59 Asia/Dhaka] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: e' in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home2/sharif/accounts_dftex/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home2/sharif/a...', 50, Array)
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(107): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(84): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(118): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(S in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 50
+[01-Mar-2017 04:39:00 UTC] PHP Fatal error:  Call to a member function send() on null in /home2/sharif/accounts_dftex/public/index.php on line 56
+[01-Mar-2017 04:39:00 UTC] PHP Fatal error:  Call to a member function send() on null in /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 107
+[01-Mar-2017 04:45:52 UTC] PHP Fatal error:  Call to a member function send() on null in /home2/sharif/accounts_dftex/public/index.php on line 56
+[01-Mar-2017 04:45:52 UTC] PHP Fatal error:  Call to a member function send() on null in /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 107
+[01-Mar-2017 10:47:05 Asia/Dhaka] PHP Fatal error:  Class 'App\Exceptions\App\System' not found in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 54
+[01-Mar-2017 10:47:05 Asia/Dhaka] PHP Fatal error:  Class 'App\Exceptions\App\System' not found in /home2/sharif/accounts_dftex/app/Exceptions/Handler.php on line 54
+[01-Mar-2017 04:50:13 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php:749
+Stack trace:
+#0 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php(749): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php(644): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(709): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php(231): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php(746): Illuminate\Container\Container->Illum in /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 749
+[01-Mar-2017 04:50:13 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php:749
+Stack trace:
+#0 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php(749): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php(644): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(709): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php(231): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php(746): Illuminate\Container\Container->Illum in /home2/sharif/accounts_dftex/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 749
+[02-Mar-2017 18:42:36 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/ReportController.php on line 929
+[04-Mar-2017 17:49:24 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/ReportController.php on line 320
+[04-Mar-2017 18:13:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 1005
+[04-Mar-2017 18:13:39 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 1290
+[07-Mar-2017 13:07:37 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 13:07:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 13:08:01 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 13:08:06 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 13:08:11 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 13:10:54 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 13:12:00 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 13:13:19 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 13:21:30 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 13:48:28 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 16:27:42 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 18:31:01 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[07-Mar-2017 18:31:06 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home2/sharif/accounts_dftex/app/Http/Controllers/JournalController.php on line 714
+[20-Mar-2017 14:33:07 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:08 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:09 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:09 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:10 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:11 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:12 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:12 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:13 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:15 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:15 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:16 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:17 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:17 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:18 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:19 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:19 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:20 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:21 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:42 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:42 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:44 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:44 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:48 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:48 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:50 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:51 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:51 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:52 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:53 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:54 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:54 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:55 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:56 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:58 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:59 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:33:59 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:00 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:01 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:02 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:02 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:03 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:03 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:04 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:05 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:06 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:06 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:07 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:08 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:09 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:09 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:10 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:11 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:11 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:12 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:13 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:15 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:16 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:24 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:25 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:26 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:26 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:27 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:28 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:28 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:29 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:30 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:31 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:31 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:32 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:32 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:33 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:34 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:34 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:35 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:36 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:36 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:37 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:37 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:38 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:40 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:40 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:40 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:41 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:41 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:41 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:41 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:42 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:42 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:42 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:44 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:44 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:48 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:48 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:48 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:48 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:50 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:50 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:50 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:50 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:51 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:51 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:51 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:52 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:53 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:53 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:54 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:55 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:56 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:56 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:57 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:34:58 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:08 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:08 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:09 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:10 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:10 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:11 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:12 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:13 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:13 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:13 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:15 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:16 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:16 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:17 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:18 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:18 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:19 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:20 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:20 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:21 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:35 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:35 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:36 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:37 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:37 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:38 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:38 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:40 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:42 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:44 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:44 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:44 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:48 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:48 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:49 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:50 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:51 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:52 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:53 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:55 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:56 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:35:57 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:12 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:13 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:13 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:15 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:15 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:16 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:17 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:17 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:18 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:19 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:19 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:20 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:21 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:21 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:22 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:24 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:24 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:25 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:25 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:26 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:26 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:27 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:28 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:28 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:38:29 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:25 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:25 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:26 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:26 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:27 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:28 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:28 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:29 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:29 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:30 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:31 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:31 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:32 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:32 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:33 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:34 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:34 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:35 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:35 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:36 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:43:37 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:09 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:10 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:10 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:11 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:12 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:12 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:13 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:15 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:16 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:16 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:17 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:18 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:18 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:19 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:20 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:20 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:21 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:22 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:22 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:24 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:25 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753
+[20-Mar-2017 14:45:25 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home2/sharif/accounts_dftex/routes/web.php on line 753

@@ -1,0 +1,174 @@
+10-04-2018 | 10:18:25 |   127.0.0.1|guest|LogIn|http://localhost:75|Google Chrome|linux|||
+10-04-2018 | 10:18:32 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 10:18:35 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/inventory/tarik.islam|Google Chrome|linux|||
+10-04-2018 | 10:18:37 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-04-2018 | 10:18:37 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-04-2018 | 10:18:46 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-04-2018 | 10:18:54 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-04-2018 | 10:18:57 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-04-2018 | 10:19:00 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-others_receipt|Google Chrome|linux|||
+10-04-2018 | 10:19:03 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-others_payment|Google Chrome|linux|||
+10-04-2018 | 10:19:09 |   127.0.0.1|guest|Category Settings|http://localhost:75/inventory/category/settings|Google Chrome|linux|||
+10-04-2018 | 10:19:14 |   127.0.0.1|guest|Inventory Item|http://localhost:75/inventory/item/settings|Google Chrome|linux|||
+10-04-2018 | 10:19:21 |   127.0.0.1|guest|Inventory Purchase Invoice|http://localhost:75/inventory/purchase/invoice|Google Chrome|linux|||
+10-04-2018 | 10:19:34 |   127.0.0.1|guest|Inventory Stocks Transaction|http://localhost:75/inventory/stocks/trasansaction/list|Google Chrome|linux|||
+10-04-2018 | 10:19:39 |   127.0.0.1|guest|Inventory Stocks Summery List|http://localhost:75/stock/summery/list|Google Chrome|linux|||
+10-04-2018 | 10:19:53 |   127.0.0.1|guest|Inventory Finish-goods Entry|http://localhost:75/finish-goods/list|Google Chrome|linux|||
+10-04-2018 | 10:20:00 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list/by-user|Google Chrome|linux|||
+10-04-2018 | 10:20:22 |   127.0.0.1|guest|Logout|http://localhost:75/logout/tarik.islam|Google Chrome|linux|||
+10-04-2018 | 10:20:23 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 10:20:29 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 10:20:30 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 10:20:38 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 10:20:39 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 12:30:14 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 12:30:22 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 12:30:26 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 12:30:28 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/inventory/tarik.islam|Google Chrome|linux|||
+10-04-2018 | 12:30:29 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-04-2018 | 12:30:30 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-04-2018 | 12:30:42 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-04-2018 | 12:43:24 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-04-2018 | 12:43:31 |   127.0.0.1|guest|LogIn|http://localhost:75|Google Chrome|linux|||
+10-04-2018 | 12:43:37 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 12:43:39 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/inventory/tarik|Google Chrome|linux|||
+10-04-2018 | 12:43:42 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-04-2018 | 12:43:42 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-04-2018 | 12:43:44 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-04-2018 | 12:43:51 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-04-2018 | 12:44:05 |   127.0.0.1|guest|Category Settings|http://localhost:75/inventory/category/settings|Google Chrome|linux|||
+10-04-2018 | 12:44:13 |   127.0.0.1|guest|Inventory Purchase Invoice|http://localhost:75/inventory/purchase/invoice|Google Chrome|linux|||
+10-04-2018 | 12:44:26 |   127.0.0.1|guest|Logout|http://localhost:75/logout/tarik|Google Chrome|linux|||
+10-04-2018 | 12:44:28 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 12:44:46 |   127.0.0.1|guest|LogIn|http://localhost:75/login|Google Chrome|linux|||
+10-04-2018 | 12:44:49 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-04-2018 | 12:44:50 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-04-2018 | 12:44:50 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-04-2018 | 12:45:12 |   127.0.0.1|guest|Customer Order|http://localhost:75/customer/order|Google Chrome|linux|||
+10-04-2018 | 12:51:17 |   127.0.0.1|guest|User Profile|http://localhost:75/user/profile|Google Chrome|linux|||
+10-04-2018 | 13:16:04 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-04-2018 | 13:16:04 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-04-2018 | 13:16:13 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-04-2018 | 13:16:15 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-04-2018 | 13:16:15 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-04-2018 | 13:16:17 |   127.0.0.1|guest|Cost Center|http://localhost:75/dashboard/cost-center|Google Chrome|linux|||
+10-04-2018 | 13:16:21 |   127.0.0.1|guest|Customer Order|http://localhost:75/customer/order|Google Chrome|linux|||
+10-04-2018 | 13:16:26 |   127.0.0.1|guest|Posting|http://localhost:75/journal/posting/type-general_journal|Google Chrome|linux|||
+10-04-2018 | 13:16:49 |   127.0.0.1|guest|Customer Order|http://localhost:75/customer/order|Google Chrome|linux|||
+10-04-2018 | 13:17:05 |   127.0.0.1|guest|All Order List|http://localhost:75/customer/all/order-list|Google Chrome|linux|||
+10-04-2018 | 13:17:16 |   127.0.0.1|guest|All Customer|http://localhost:75/customer/list|Google Chrome|linux|||
+10-04-2018 | 13:17:21 |   127.0.0.1|guest|All Supplier|http://localhost:75/supplier/list|Google Chrome|linux|||
+10-04-2018 | 13:17:25 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery|Google Chrome|linux|||
+10-04-2018 | 13:17:34 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery|Google Chrome|linux|||
+10-04-2018 | 13:17:38 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery?customer=sa_label&customer_id=3&customer_ref=50000009.5|Google Chrome|linux|||
+10-04-2018 | 13:17:42 |   127.0.0.1|guest|Order Delivery|http://localhost:75/customer/order/delivery?customer=kmr&customer_id=4&customer_ref=50000010.5|Google Chrome|linux|||
+10-04-2018 | 13:18:13 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-04-2018 | 13:18:25 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list?cost_center=4&post_type=sales&search_from=2018-10-04&search_to=2018-10-04&user_name=11|Google Chrome|linux|||
+10-04-2018 | 13:18:44 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-04-2018 | 13:18:45 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-04-2018 | 13:18:45 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-04-2018 | 13:19:06 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction|Google Chrome|linux|||
+10-04-2018 | 13:19:16 |   127.0.0.1|guest|All Ledger Transaction|http://localhost:75/all/journal/ledger|Google Chrome|linux|||
+10-04-2018 | 13:19:26 |   127.0.0.1|guest|Inventory Stocks Transaction|http://localhost:75/inventory/stocks/trasansaction/list|Google Chrome|linux|||
+10-04-2018 | 13:19:32 |   127.0.0.1|guest|Sales Report|http://localhost:75/sales/balance/report|Google Chrome|linux|||
+10-04-2018 | 13:19:37 |   127.0.0.1|guest|A/C Receivable Report|http://localhost:75/account-receivable/balance/report|Google Chrome|linux|||
+10-04-2018 | 13:19:42 |   127.0.0.1|guest|A/C Receivable Report|http://localhost:75/account-receivable/balance/report?_token=Nm6IyBoPnE12t87cvTZ6G6hHKrDexrcmBWMue313&cost_center=2&search_from=2018-10-04&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:19:50 |   127.0.0.1|guest|Purchase Report|http://localhost:75/purchase/balance/report|Google Chrome|linux|||
+10-04-2018 | 13:19:59 |   127.0.0.1|guest|A/C Payable Report|http://localhost:75/account-payable/balance/report|Google Chrome|linux|||
+10-04-2018 | 13:20:08 |   127.0.0.1|guest|Inventory Stocks Transaction|http://localhost:75/inventory/stocks/trasansaction/list|Google Chrome|linux|||
+10-04-2018 | 13:20:14 |   127.0.0.1|guest|All Ledger Transaction|http://localhost:75/all/journal/ledger|Google Chrome|linux|||
+10-04-2018 | 13:20:20 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction|Google Chrome|linux|||
+10-04-2018 | 13:20:24 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-04-2018 | 13:21:28 |   127.0.0.1|guest|General Transaction|http://localhost:75/general/transaction-list|Google Chrome|linux|||
+10-04-2018 | 13:21:42 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-04-2018 | 13:21:44 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-04-2018 | 13:21:44 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-04-2018 | 13:21:51 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-04-2018 | 13:21:56 |   127.0.0.1|guest|Reports of Cash Flow|http://localhost:75/reports/cash-flow|Google Chrome|linux|||
+10-04-2018 | 13:22:02 |   127.0.0.1|guest|Sales Report|http://localhost:75/sales/balance/report|Google Chrome|linux|||
+10-04-2018 | 13:22:10 |   127.0.0.1|guest|Sales Report|http://localhost:75/sales/balance/report?_token=Nm6IyBoPnE12t87cvTZ6G6hHKrDexrcmBWMue313&cost_center=0&search_from=2018-02-25&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:22:14 |   127.0.0.1|guest|Sales Report|http://localhost:75/sales/balance/report?_token=Nm6IyBoPnE12t87cvTZ6G6hHKrDexrcmBWMue313&cost_center=1&search_from=2018-02-25&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:22:22 |   127.0.0.1|guest|Sales Report|http://localhost:75/sales/balance/report?_token=Nm6IyBoPnE12t87cvTZ6G6hHKrDexrcmBWMue313&cost_center=1&search_from=2017-05-01&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:22:37 |   127.0.0.1|guest|Sales Report|http://localhost:75/sales/balance/report?_token=Nm6IyBoPnE12t87cvTZ6G6hHKrDexrcmBWMue313&cost_center=0&search_from=2016-09-05&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:22:48 |   127.0.0.1|guest|A/C Receivable Report|http://localhost:75/account-receivable/balance/report|Google Chrome|linux|||
+10-04-2018 | 13:22:55 |   127.0.0.1|guest|Purchase Report|http://localhost:75/purchase/balance/report|Google Chrome|linux|||
+10-04-2018 | 13:23:05 |   127.0.0.1|guest|A/C Payable Report|http://localhost:75/account-payable/balance/report|Google Chrome|linux|||
+10-04-2018 | 13:23:16 |   127.0.0.1|guest|Inventory Stocks Summery List|http://localhost:75/stock/summery/list|Google Chrome|linux|||
+10-04-2018 | 13:23:26 |   127.0.0.1|guest|Cost Center|http://localhost:75/dashboard/cost-center|Google Chrome|linux|||
+10-04-2018 | 13:23:37 |   127.0.0.1|guest|Inventory Stocks Summery List|http://localhost:75/stock/summery/list|Google Chrome|linux|||
+10-04-2018 | 13:26:15 |   127.0.0.1|guest|Inventory Finish-goods Entry|http://localhost:75/finish-goods/list|Google Chrome|linux|||
+10-04-2018 | 13:26:22 |   127.0.0.1|guest|Inventory Finish-goods Entry|http://localhost:75/finish-goods/list?item_id=6&order_id=6|Google Chrome|linux|||
+10-04-2018 | 13:26:39 |   127.0.0.1|guest|Waste Goods Summery|http://localhost:75/delivery/finish-goods/list|Google Chrome|linux|||
+10-04-2018 | 13:26:54 |   127.0.0.1|guest|Inventory Stocks Summery List|http://localhost:75/stock/summery/list|Google Chrome|linux|||
+10-04-2018 | 13:27:04 |   127.0.0.1|guest|Finish Goods Summery List|http://localhost:75/finish-goods/summery/list|Google Chrome|linux|||
+10-04-2018 | 13:27:08 |   127.0.0.1|guest|Inventory Stocks Summery List|http://localhost:75/stock/summery/list|Google Chrome|linux|||
+10-04-2018 | 13:27:23 |   127.0.0.1|guest|Report of Trail Balance|http://localhost:75/trail/balance/report|Google Chrome|linux|||
+10-04-2018 | 13:27:40 |   127.0.0.1|guest|Manufacturing Report|http://localhost:75/manufacturing/report|Google Chrome|linux|||
+10-04-2018 | 13:27:49 |   127.0.0.1|guest|Manufacturing Report|http://localhost:75/manufacturing/report?cost_center=0&search_from=2018-10-04&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:28:07 |   127.0.0.1|guest|Manufacturing Report|http://localhost:75/manufacturing/report?cost_center=1&search_from=2016-06-22&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:28:32 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report|Google Chrome|linux|||
+10-04-2018 | 13:28:40 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report?cost_center=0&search_from=2014-06-25&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:29:31 |   127.0.0.1|guest|Report of Trail Balance|http://localhost:75/trail/balance/report|Google Chrome|linux|||
+10-04-2018 | 13:29:44 |   127.0.0.1|guest|Report of Trail Balance|http://localhost:75/trail/balance/report?_token=Nm6IyBoPnE12t87cvTZ6G6hHKrDexrcmBWMue313&cost_center_id=0&search_from=2012-04-03&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:31:33 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-04-2018 | 13:31:50 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet?cost_center=0&search_from=2018-10-04&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:32:16 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet?cost_center=2&search_from=2018-10-04&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:32:59 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet?cost_center=2&search_from=2018-10-04&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:33:17 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report|Google Chrome|linux|||
+10-04-2018 | 13:33:21 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report?cost_center=0&search_from=2018-10-04&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:33:33 |   127.0.0.1|guest|Manufacturing Report|http://localhost:75/manufacturing/report|Google Chrome|linux|||
+10-04-2018 | 13:33:53 |   127.0.0.1|guest|Inventory Stocks Summery List|http://localhost:75/stock/summery/list|Google Chrome|linux|||
+10-04-2018 | 13:34:00 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction|Google Chrome|linux|||
+10-04-2018 | 13:34:04 |   127.0.0.1|guest|All Ledger Transaction|http://localhost:75/all/journal/ledger|Google Chrome|linux|||
+10-04-2018 | 13:34:07 |   127.0.0.1|guest|Ledger Opening Balance|http://localhost:75/ledger/opening/balance|Google Chrome|linux|||
+10-04-2018 | 13:34:32 |   127.0.0.1|guest|All Ledger Transaction|http://localhost:75/all/journal/ledger|Google Chrome|linux|||
+10-04-2018 | 13:34:46 |   127.0.0.1|guest|Ledger Transaction Details|http://localhost:75/journal/debit-cerdit/details/id-10000004|Google Chrome|linux|||
+10-04-2018 | 13:34:58 |   127.0.0.1|guest|Ledger Transaction Details|http://localhost:75/journal/debit-cerdit/details/id-10000004?cost_center=0&search_from=2012-06-20&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:35:09 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report|Google Chrome|linux|||
+10-04-2018 | 13:35:17 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report?cost_center=0&search_from=2014-06-17&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:35:32 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction|Google Chrome|linux|||
+10-04-2018 | 13:35:46 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction?cost_center=1&post_type=journal&search_from=2012-04-04&search_to=2018-10-04&user_name=1|Google Chrome|linux|||
+10-04-2018 | 13:36:10 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-04-2018 | 13:36:21 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet?cost_center=0&search_from=2018-10-04&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:36:41 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet?cost_center=0&search_from=2010-02-02&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:37:04 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet?cost_center=0&search_from=2010-02-01&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:37:25 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet?cost_center=0&search_from=2018-04-10&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:37:54 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report|Google Chrome|linux|||
+10-04-2018 | 13:38:09 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report?cost_center=0&search_from=2017-12-31&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:38:22 |   127.0.0.1|guest|Manufacturing Report|http://localhost:75/manufacturing/report|Google Chrome|linux|||
+10-04-2018 | 13:38:30 |   127.0.0.1|guest|Income Statement|http://localhost:75/income-statement/report|Google Chrome|linux|||
+10-04-2018 | 13:38:37 |   127.0.0.1|guest|Finish Goods Summery List|http://localhost:75/finish-goods/summery/list|Google Chrome|linux|||
+10-04-2018 | 13:38:45 |   127.0.0.1|guest|Finish Goods Summery List|http://localhost:75/finish-goods/summery/list?cost_center=0&search_from=2010-02-03&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:41:42 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-04-2018 | 13:44:08 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-04-2018 | 13:44:41 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet?cost_center=0&search_from=2015-08-03&search_to=2017-12-31|Google Chrome|linux|||
+10-04-2018 | 13:46:23 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-04-2018 | 13:46:58 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-04-2018 | 13:47:00 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-04-2018 | 13:47:01 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-04-2018 | 13:47:52 |   127.0.0.1|guest|Dashboard|http://localhost:75/dashboard/admin/faisal|Google Chrome|linux|||
+10-04-2018 | 13:47:58 |   127.0.0.1|guest|Line Chart Report|http://localhost:75/dashboard/admin/line-graph/chart|Google Chrome|linux|||
+10-04-2018 | 13:47:58 |   127.0.0.1|guest|All Report Summary|http://localhost:75/dashboard/admin/today/all-report/summary|Google Chrome|linux|||
+10-04-2018 | 13:56:19 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-04-2018 | 13:56:21 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-04-2018 | 13:57:20 |   127.0.0.1|guest|Finish Goods Summery List|http://localhost:75/finish-goods/summery/list|Google Chrome|linux|||
+10-04-2018 | 13:57:30 |   127.0.0.1|guest|Finish Goods Summery List|http://localhost:75/finish-goods/summery/list?cost_center=0&search_from=2010-02-02&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 13:58:33 |   127.0.0.1|guest|Waste Goods Summery|http://localhost:75/delivery/finish-goods/list|Google Chrome|linux|||
+10-04-2018 | 13:58:39 |   127.0.0.1|guest|Waste Finish-goods|http://localhost:75/waste/finish-goods/id-1|Google Chrome|linux|||
+10-04-2018 | 13:58:42 |   127.0.0.1|guest|Waste Goods Summery|http://localhost:75/delivery/finish-goods/list|Google Chrome|linux|||
+10-04-2018 | 13:58:47 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-04-2018 | 13:58:56 |   127.0.0.1|guest|Finish Goods Summery List|http://localhost:75/finish-goods/summery/list|Google Chrome|linux|||
+10-04-2018 | 13:59:06 |   127.0.0.1|guest|Finish Goods Summery List|http://localhost:75/finish-goods/summery/list?cost_center=0&search_from=2010-02-03&search_to=2018-10-04|Google Chrome|linux|||
+10-04-2018 | 14:04:34 |   127.0.0.1|guest|Reports Balance Sheet|http://localhost:75/reports/balance-sheet|Google Chrome|linux|||
+10-04-2018 | 14:05:22 |   127.0.0.1|guest|Inventory Stocks Summery List|http://localhost:75/stock/summery/list|Google Chrome|linux|||
+10-04-2018 | 14:05:27 |   127.0.0.1|guest|Inventory Stocks Item List|http://localhost:75/inventory/stock/item/list|Google Chrome|linux|||
+10-04-2018 | 14:05:31 |   127.0.0.1|guest|Inventory Finish-goods Entry|http://localhost:75/finish-goods/list|Google Chrome|linux|||
+10-04-2018 | 14:05:33 |   127.0.0.1|guest|Inventory Item|http://localhost:75/inventory/item/settings|Google Chrome|linux|||
+10-04-2018 | 14:05:34 |   127.0.0.1|guest|Inventory Purchase Invoice|http://localhost:75/inventory/purchase/invoice|Google Chrome|linux|||
+10-04-2018 | 14:05:36 |   127.0.0.1|guest|Inventory Stocks Item List|http://localhost:75/inventory/stock/item/list|Google Chrome|linux|||
+10-04-2018 | 14:05:37 |   127.0.0.1|guest|Inventory Stocks Transaction|http://localhost:75/inventory/stocks/trasansaction/list|Google Chrome|linux|||
+10-04-2018 | 14:05:42 |   127.0.0.1|guest|Inventory Stocks Summery List|http://localhost:75/stock/summery/list|Google Chrome|linux|||
+10-04-2018 | 14:05:46 |   127.0.0.1|guest|Inventory Finish-goods Entry|http://localhost:75/finish-goods/list|Google Chrome|linux|||
+10-04-2018 | 14:05:52 |   127.0.0.1|guest|Journal|http://localhost:75/journal/transaction|Google Chrome|linux|||
+10-04-2018 | 14:05:57 |   127.0.0.1|guest|All Ledger Transaction|http://localhost:75/all/journal/ledger|Google Chrome|linux|||
+10-04-2018 | 14:06:08 |   127.0.0.1|guest|Ledger Opening Balance|http://localhost:75/ledger/opening/balance|Google Chrome|linux|||

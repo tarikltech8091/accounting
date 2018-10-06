@@ -1,0 +1,321 @@
+03-22-2017 | 10:40:05 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 10:40:39 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 10:40:40 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 10:40:53 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 10:40:53 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 10:42:28 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 11:23:59 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 11:24:28 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-12-01&search_to=2017-03-22|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 11:41:17 |   203.188.243.150|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 11:42:21 |   203.188.243.150|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 11:53:45 |   203.188.243.150|guest|Finish Goods Summery List|http://accounts.dftexltd.com/finish-goods/summery/list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 11:56:51 |   203.188.243.150|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 11:57:08 |   203.188.243.150|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:10:00 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:10:03 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:10:03 |   203.188.243.150|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:10:03 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:39:28 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 13:53:38 |   203.188.243.150|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:53:58 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:54:00 |   203.188.243.150|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-others_payment|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:54:19 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2017-02-26&search_to=2017-03-22|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:54:39 |   203.188.243.150|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-others_payment|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:54:40 |   203.188.243.150|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-others_payment|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:54:57 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2017-02-26&search_to=2017-03-22|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:55:17 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:55:41 |   203.188.243.150|guest|General Transaction Delete|http://accounts.dftexltd.com/general/transaction-list/delete/id-37/type-others_payment|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:55:42 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:55:42 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 13:55:46 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2017-02-26&search_to=2017-03-22|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 15:06:22 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 15:06:39 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 15:06:39 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 15:07:00 |   203.188.243.150|guest|A/C Receivable Report|http://accounts.dftexltd.com/account-receivable/balance/report|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 16:05:18 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:06:13 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:06:14 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:06:48 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:06:49 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:07:25 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:07:27 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/inventory/sipon|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:07:43 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:07:43 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:07:53 |   103.58.74.234|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:07:55 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:07:58 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:08:18 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:08:25 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:08:26 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:08:49 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:08:50 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:09:05 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:09:06 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:09:23 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:09:24 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:10:15 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:10:16 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:10:29 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:10:30 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:10:31 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:10:31 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:10:40 |   103.58.74.234|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list/by-user|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:10:47 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:10:48 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:10:57 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:10:58 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:11:09 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:11:10 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:11:22 |   103.58.74.234|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list/by-user?cost_center=&post_type=&search_from=2017-01-01&search_to=2017-03-22|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:11:29 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:11:30 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:11:39 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:11:39 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:11:54 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:12:42 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list?cost_center=0&search_from=2017-03-14&search_to=2017-03-22|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:13:47 |   103.58.74.234|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:14:09 |   103.58.74.234|guest|Logout|http://accounts.dftexltd.com/logout/sipon|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:14:11 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:18:17 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:18:18 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/account/samanta.jeba.akonjee|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:18:38 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:18:38 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:19:09 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/account/samanta.jeba.akonjee|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:19:23 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:19:29 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/account/samanta.jeba.akonjee|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:19:29 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:19:29 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:19:56 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:19:56 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:20:21 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:20:49 |   103.58.74.234|guest|Ajax Category Setting|http://accounts.dftexltd.com/ajax/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:22:09 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:22:32 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:22:36 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:22:37 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:22:47 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:22:49 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:23:13 |   103.58.74.234|guest|Ajax Category Setting|http://accounts.dftexltd.com/ajax/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:23:26 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:23:26 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:23:49 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:24:05 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:24:07 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:24:32 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:24:57 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:25:06 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:25:07 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/account/samanta.jeba.akonjee|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:25:15 |   103.58.74.234|guest|Logout|http://accounts.dftexltd.com/logout/samanta.jeba.akonjee|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:25:17 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:25:24 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:25:24 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:25:25 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:25:26 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/inventory/sipon|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:25:27 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:25:48 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:25:48 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:27:18 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:27:27 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:27:36 |   103.58.74.234|guest|Ajax Inventory Setting|http://accounts.dftexltd.com/ajax/stock/settings|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:28:06 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:29:54 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:29:56 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/account/samanta.jeba.akonjee|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:30:17 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:30:17 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:30:24 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:30:56 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:30:57 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:31:16 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:31:40 |   103.58.74.234|guest|Inventory Stocks Entry|http://accounts.dftexltd.com/inventory/stocks/field/2|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:32:20 |   103.58.74.234|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:32:30 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:33:12 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:34:06 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=5&order_id=5|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:34:29 |   103.58.74.234|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:34:36 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:34:46 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:35:02 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:35:12 |   103.58.74.234|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:35:43 |   103.58.74.234|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:36:00 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:36:02 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:36:10 |   103.58.74.234|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:36:12 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:36:16 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:36:29 |   103.58.74.234|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:36:53 |   103.58.74.234|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:37:29 |   103.58.74.234|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:37:38 |   103.58.74.234|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:38:02 |   103.58.74.234|guest|Journal|http://accounts.dftexltd.com/journal/transaction/by-user|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:38:07 |   103.58.74.234|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list/by-user|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:38:12 |   103.58.74.234|guest|Journal|http://accounts.dftexltd.com/journal/transaction/by-user|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:38:20 |   103.58.74.234|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list/by-user|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:38:59 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:40:55 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:41:24 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/2|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:41:34 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/field/2|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:41:43 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:45:07 |   103.58.74.234|guest|Logout|http://accounts.dftexltd.com/logout/samanta.jeba.akonjee|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:45:08 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:45:56 |   103.58.74.234|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:46:08 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:46:18 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:47:20 |   103.58.74.234|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:47:23 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:47:39 |   103.58.74.234|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:47:55 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:48:22 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:48:48 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:49:17 |   103.58.74.234|guest|Ajax Inventory Setting Update|http://accounts.dftexltd.com/ajax/inventory/settings/update/stock-1/cat-1/item-polyester/desc-hii|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:49:18 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:49:19 |   103.58.74.234|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:49:26 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:49:33 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:50:06 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=8&order_id=8|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:50:54 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:53:36 |   103.58.74.234|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:53:47 |   103.58.74.234|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:54:54 |   103.58.74.234|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment-method/cash|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:55:15 |   103.58.74.234|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment/field/1/stocks-8|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:55:34 |   103.58.74.234|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:55:34 |   103.58.74.234|guest|Supplier Payment Voucher|http://accounts.dftexltd.com/supplier/payment/voucher/view|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:56:08 |   103.58.74.234|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment?supplier=wini&supplier_id=1&supplier_ref=50000002.5|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:56:32 |   103.58.74.234|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:56:45 |   103.58.74.234|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:57:04 |   103.58.74.234|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:57:20 |   103.58.74.234|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:57:26 |   103.58.74.234|guest|All Order List|http://accounts.dftexltd.com/customer/all/order-list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:57:49 |   103.58.74.234|guest|All Order List|http://accounts.dftexltd.com/customer/all/order-list?_token=mQKUlBu3mwdM49gcwVVrQa9WlkVdTI5nmhs9xobH&cost_center=&customer=&search_from=2017-02-01&search_to=2017-03-22|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:58:07 |   103.58.74.234|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:58:26 |   103.58.74.234|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:58:41 |   103.58.74.234|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=kmr&customer_id=4&customer_ref=50000010.5|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:59:05 |   103.58.74.234|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:59:15 |   103.58.74.234|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment?customer=eto_tech&customer_id=2&customer_ref=50000008.5|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 16:59:43 |   103.58.74.234|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:01:53 |   103.58.74.234|guest|Logout|http://accounts.dftexltd.com/logout/samanta.jeba.akonjee|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:01:54 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:03:09 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:03:10 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/account/samanta.jeba.akonjee|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:03:21 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:03:21 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:12:54 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:12:55 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/account/samanta.jeba.akonjee|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:12:59 |   103.58.74.234|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:13:01 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:13:02 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:13:10 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:13:11 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:13:26 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:13:26 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:13:35 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:14:47 |   103.58.74.234|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/10000001/group-1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:14:50 |   103.58.74.234|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/20000002/group-2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:14:53 |   103.58.74.234|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/20000001/group-2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:15:00 |   103.58.74.234|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/30000002/group-3|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:15:03 |   103.58.74.234|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-30000002/depth-3|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:15:29 |   103.58.74.234|guest|Ledger|http://accounts.dftexltd.com/journal/ledger-30000002/depth-3|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:15:30 |   103.58.74.234|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-30000002/depth-3|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:15:48 |   103.58.74.234|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:17:47 |   103.58.74.234|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:17:47 |   103.58.74.234|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:18:05 |   103.58.74.234|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list/by-user|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:18:11 |   103.58.74.234|guest|Posting Print|http://accounts.dftexltd.com/journal/posting/print/40|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 17:23:20 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:23:24 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=7&order_id=7|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:23:46 |   203.188.243.150|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:24:12 |   203.188.243.150|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:24:31 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:24:42 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:25:21 |   203.188.243.150|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:25:54 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:26:22 |   203.188.243.150|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:26:47 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:26:50 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:27:00 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:28:59 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:29:00 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:30:35 |   203.188.243.150|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:40:47 |   203.188.243.150|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:41:07 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:41:11 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:41:16 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=7&order_id=7|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 17:41:24 |   203.188.243.150|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=8&order_id=8|Mozilla Firefox|windows|||Bangladesh
+03-22-2017 | 18:16:18 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:16:19 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/account/samanta.jeba.akonjee|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:16:31 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:16:31 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:16:49 |   103.58.74.234|guest|Logout|http://accounts.dftexltd.com/logout/samanta.jeba.akonjee|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:16:51 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:16:59 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:17:00 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:17:26 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login?box=login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:17:50 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:17:51 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/inventory/sipon|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:18:01 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:18:01 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:18:17 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:18:33 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:19:01 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:19:26 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:20:15 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/0|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:20:24 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:30:25 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:30:26 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:30:46 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:31:25 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:31:39 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:32:18 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:33:11 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=8&order_id=8|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:33:29 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:33:42 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:34:19 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:36:11 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:36:25 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:36:26 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/inventory/sipon|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:36:36 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:36:36 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:36:44 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:36:57 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=8&order_id=8|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:38:39 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:40:09 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:40:10 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:40:37 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=8&order_id=8|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:41:25 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:41:26 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:41:46 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=8&order_id=8|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:41:58 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:43:01 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:43:02 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:43:23 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=8&order_id=8|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:44:57 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:45:16 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:46:50 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:46:50 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:47:07 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:48:16 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:48:20 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:48:32 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:48:33 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:48:49 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:49:13 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:50:49 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:50:50 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:51:12 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:51:39 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:54:15 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:54:16 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:54:27 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:54:52 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:55:03 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:55:58 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:55:59 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:56:14 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:56:28 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:56:32 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:57:56 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:57:56 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:58:08 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=6&order_id=6|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:58:52 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:58:54 |   103.58.74.234|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:59:51 |   103.58.74.234|guest|Logout|http://accounts.dftexltd.com/logout/sipon|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-22-2017 | 18:59:52 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh

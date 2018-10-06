@@ -1,0 +1,16 @@
+09-10-2017 | 11:01:38 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||
+09-10-2017 | 11:01:47 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+09-10-2017 | 11:01:49 |   103.4.146.142|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||
+09-10-2017 | 11:01:53 |   103.4.146.142|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Mozilla Firefox|windows|||
+09-10-2017 | 11:01:53 |   103.4.146.142|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||
+09-10-2017 | 11:01:53 |   103.4.146.142|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||
+09-10-2017 | 11:02:28 |   103.4.146.142|guest|Event Logs|http://accounts.dftexltd.com/system-admin/event-logs|Mozilla Firefox|windows|||
+09-10-2017 | 11:02:34 |   103.4.146.142|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||
+09-10-2017 | 11:02:47 |   103.4.146.142|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||
+09-10-2017 | 11:02:48 |   103.4.146.142|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||
+09-10-2017 | 11:02:59 |   103.4.146.142|guest|All Ledger Transaction|http://accounts.dftexltd.com/all/journal/ledger|Mozilla Firefox|windows|||
+09-10-2017 | 11:03:44 |   103.4.146.142|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Mozilla Firefox|windows|||
+09-10-2017 | 11:09:42 |   103.4.146.142|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Mozilla Firefox|windows|||
+09-10-2017 | 11:09:43 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+09-10-2017 | 11:32:22 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||
+09-10-2017 | 21:08:56 |   45.123.43.26|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||

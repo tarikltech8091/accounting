@@ -1,0 +1,23 @@
+04-19-2017 | 18:10:16 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-19-2017 | 18:10:46 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-19-2017 | 18:10:47 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+04-19-2017 | 18:10:56 |   103.58.74.234|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+04-19-2017 | 18:11:00 |   103.58.74.234|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+04-19-2017 | 18:11:22 |   103.58.74.234|guest|User Profile|http://accounts.dftexltd.com/user/profile/delete/13|Google Chrome|windows|||
+04-19-2017 | 18:11:22 |   103.58.74.234|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+04-19-2017 | 18:11:44 |   103.58.74.234|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Google Chrome|windows|||
+04-19-2017 | 18:12:05 |   103.58.74.234|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|||
+04-19-2017 | 18:12:09 |   103.58.74.234|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Google Chrome|windows|||
+04-19-2017 | 18:12:14 |   103.58.74.234|guest|All Supplier|http://accounts.dftexltd.com/supplier/list|Google Chrome|windows|||
+04-19-2017 | 18:12:27 |   103.58.74.234|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Google Chrome|windows|||
+04-19-2017 | 18:12:32 |   103.58.74.234|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Google Chrome|windows|||
+04-19-2017 | 18:12:34 |   103.58.74.234|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment|Google Chrome|windows|||
+04-19-2017 | 18:12:38 |   103.58.74.234|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return|Google Chrome|windows|||
+04-19-2017 | 18:13:45 |   103.58.74.234|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-10000002/depth-1|Google Chrome|windows|||
+04-19-2017 | 18:14:08 |   103.58.74.234|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/10000009/group-1|Google Chrome|windows|||
+04-19-2017 | 18:14:16 |   103.58.74.234|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/10000002/group-1|Google Chrome|windows|||
+04-19-2017 | 18:14:41 |   103.58.74.234|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Google Chrome|windows|||
+04-19-2017 | 18:14:42 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-19-2017 | 18:17:09 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-19-2017 | 18:29:17 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-19-2017 | 18:30:52 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||

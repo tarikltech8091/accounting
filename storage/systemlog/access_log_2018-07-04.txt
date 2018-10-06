@@ -1,0 +1,17 @@
+07-04-2018 | 15:19:19 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+07-04-2018 | 15:19:24 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-04-2018 | 15:19:26 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-04-2018 | 15:19:38 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+07-04-2018 | 15:19:57 |   103.88.232.210|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+07-04-2018 | 15:34:03 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-04-2018 | 15:34:15 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+07-04-2018 | 15:34:15 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+07-04-2018 | 17:38:19 |   38.130.180.48|guest|LogIn|https://accounts.dftexltd.com|Mozilla Firefox|windows|||
+07-04-2018 | 17:59:57 |   162.209.202.157|guest|LogIn|https://www.accounts.dftexltd.com|Google Chrome|Android|||
+07-04-2018 | 18:49:19 |   138.68.254.101|guest|LogIn|http://www.accounts.dftexltd.com|Mozilla Firefox|windows|||
+07-04-2018 | 19:23:19 |   138.68.29.214|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||
+07-04-2018 | 23:37:41 |   69.4.87.74|guest|LogIn|https://www.accounts.dftexltd.com|Google Chrome|Android|||
+07-04-2018 | 23:37:59 |   69.4.89.106|guest|LogIn|https://accounts.dftexltd.com|Apple Safari|Phone|||
+07-04-2018 | 23:37:59 |   69.4.89.106|guest|LogIn|https://www.accounts.dftexltd.com|Apple Safari|mac|||
+07-04-2018 | 23:38:10 |   93.119.227.19|guest|LogIn|https://www.accounts.dftexltd.com|Apple Safari|Android|||
+07-04-2018 | 23:38:10 |   93.119.227.19|guest|LogIn|https://accounts.dftexltd.com|Apple Safari|mac|||

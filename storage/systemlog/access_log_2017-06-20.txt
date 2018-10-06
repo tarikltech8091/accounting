@@ -1,0 +1,5 @@
+06-20-2017 | 15:00:21 |   103.25.251.83|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|Phone|||
+06-20-2017 | 15:01:25 |   103.25.251.83|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|Phone|||
+06-20-2017 | 15:01:26 |   103.25.251.83|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|Phone|||
+06-20-2017 | 15:02:18 |   103.25.251.83|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|Phone|||
+06-20-2017 | 15:02:18 |   103.25.251.83|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|Phone|||

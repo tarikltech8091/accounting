@@ -1,0 +1,222 @@
+03-15-2017 | 13:02:27 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:02:31 |   103.58.74.234|guest|Error 404|http://accounts.dftexltd.com/error/404|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:03:02 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:03:03 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/inventory/sipon|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:03:05 |   103.58.74.234|guest|Error 404|http://accounts.dftexltd.com/error/404|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:03:06 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:03:06 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:03:15 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:03:17 |   103.58.74.234|guest|Error 404|http://accounts.dftexltd.com/error/404|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:03:56 |   103.58.74.234|guest|Inventory Stocks Entry|http://accounts.dftexltd.com/inventory/stocks/field/2|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:04:36 |   103.58.74.234|guest|Inventory Stocks Entry|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:04:37 |   103.58.74.234|guest|Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice/view|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:04:38 |   103.58.74.234|guest|Error 404|http://accounts.dftexltd.com/error/404|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:04:46 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:05:20 |   103.58.74.234|guest|Inventory Stocks Entry|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:05:21 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:05:23 |   103.58.74.234|guest|Error 404|http://accounts.dftexltd.com/error/404|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:05:32 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:05:33 |   103.58.74.234|guest|Error 404|http://accounts.dftexltd.com/error/404|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:05:33 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:05:35 |   103.58.74.234|guest|Error 404|http://accounts.dftexltd.com/error/404|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:05:36 |   103.58.74.234|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:05:37 |   103.58.74.234|guest|Error 404|http://accounts.dftexltd.com/error/404|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:06:08 |   103.58.74.234|guest|Inventory Stocks Entry|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:06:09 |   103.58.74.234|guest|Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice/view|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:06:11 |   103.58.74.234|guest|Error 404|http://accounts.dftexltd.com/error/404|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 13:27:16 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:27:21 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:27:24 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:27:25 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:27:27 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:27:28 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:27:28 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:27:30 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:27:33 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:27:37 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-11-27&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:27:38 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:30:39 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:30:40 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:30:58 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&post_type=&search_from=2016-12-25&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:30:59 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:11 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&page=2&post_type=&search_from=2016-12-25&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:12 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:16 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&page=3&post_type=&search_from=2016-12-25&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:17 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:20 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&page=1&post_type=&search_from=2016-12-25&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:22 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:24 |   203.188.243.150|guest|General Transaction Edit|http://accounts.dftexltd.com/general/transaction-list/edit/id-21/type-general_journal|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:25 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:38 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:39 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:40 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:43 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-11-27&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:31:45 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:32:27 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:32:28 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:32:29 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:32:36 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:32:37 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:32:38 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:32:42 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-11-27&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:32:43 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:33:22 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:33:23 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:33:24 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:33:38 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:33:39 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:33:40 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:34:11 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&post_type=&search_from=2016-11-27&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:34:13 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:34:30 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&page=2&post_type=&search_from=2016-11-27&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:34:31 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:34:47 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&page=1&post_type=&search_from=2016-11-27&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:34:48 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:35:05 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&page=2&post_type=&search_from=2016-11-27&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:35:06 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:35:15 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&page=3&post_type=&search_from=2016-11-27&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:35:16 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:35:28 |   203.188.243.150|guest|General Transaction Edit|http://accounts.dftexltd.com/general/transaction-list/edit/id-2/type-others_payment|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:35:29 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:36:50 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:36:51 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:36:53 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:37:26 |   203.188.243.150|guest|General Transaction Edit|http://accounts.dftexltd.com/general/transaction-list/edit/id-1/type-others_payment|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:37:27 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:38:02 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:38:03 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:38:04 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:38:27 |   203.188.243.150|guest|General Transaction Edit|http://accounts.dftexltd.com/general/transaction-list/edit/id-21/type-general_journal|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:38:28 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:38:56 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:38:57 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:38:58 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:39:09 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-11-27&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 13:39:11 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:02:29 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&post_type=&search_from=2016-11-27&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:02:31 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:02:39 |   203.188.243.150|guest|General Transaction Edit|http://accounts.dftexltd.com/general/transaction-list/edit/id-21/type-general_journal|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:02:40 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:07 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:08 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:09 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:13 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:14 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:17 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:18 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:23 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-11-27&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:24 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:49 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:50 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:51 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:57 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&post_type=&search_from=2017-01-29&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:03:58 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:04:02 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&page=2&post_type=&search_from=2017-01-29&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:04:03 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:04:07 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list?cost_center=&page=3&post_type=&search_from=2017-01-29&search_to=2017-03-15&user_name=|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:04:08 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:04:11 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 14:04:12 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/inventory/sipon|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 14:04:13 |   103.58.74.234|guest|Error 404|http://accounts.dftexltd.com/error/404|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 14:04:13 |   203.188.243.150|guest|General Transaction Edit|http://accounts.dftexltd.com/general/transaction-list/edit/id-2/type-others_payment|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:04:14 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 14:04:14 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|Dhaka|Dhaka|Bangladesh
+03-15-2017 | 14:04:14 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:05:13 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:05:14 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:05:15 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:05:20 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-11-27&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:05:22 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:07:21 |   203.188.243.150|guest|General Transaction Update|http://accounts.dftexltd.com/general/transaction-list/update|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:07:22 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 14:07:24 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:38:57 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:02 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:04 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:05 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:06 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:07 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:07 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:19 |   203.188.243.150|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:22 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:26 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:27 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:32 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-11-27&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:34 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:53 |   203.188.243.150|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:55 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 16:39:56 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:00:59 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:01:01 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:01:03 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:01:05 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:01:06 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:01:07 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:01:07 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:02:51 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:02:53 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:03:23 |   203.188.243.150|guest|Ajax Ledger Opening Balance|http://accounts.dftexltd.com/ajax/opening/balance/id-40000007/depth-4|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:03:29 |   203.188.243.150|guest|Ledger Opening Balance Confirm|http://accounts.dftexltd.com/ledger/opening/balance-confirm|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:03:30 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:03:31 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:03:36 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:03:37 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:03:47 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-12-25&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:03:49 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:13 |   203.188.243.150|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/10000002/group-1|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:15 |   203.188.243.150|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-20000006/depth-2|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:17 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:28 |   203.188.243.150|guest|Ledger|http://accounts.dftexltd.com/journal/ledger-20000006/depth-2|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:28 |   203.188.243.150|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-20000006/depth-2|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:30 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:36 |   203.188.243.150|guest|Ledger|http://accounts.dftexltd.com/journal/ledger-20000006/depth-2|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:36 |   203.188.243.150|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-20000006/depth-2|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:38 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:46 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:47 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:52 |   203.188.243.150|guest|Ajax Ledger Opening Balance|http://accounts.dftexltd.com/ajax/opening/balance/id-30000034/depth-3|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:58 |   203.188.243.150|guest|Ledger Opening Balance Confirm|http://accounts.dftexltd.com/ledger/opening/balance-confirm|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:06:59 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:00 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:03 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-12-25&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:04 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:17 |   203.188.243.150|guest|Ajax Ledger Opening Balance|http://accounts.dftexltd.com/ajax/opening/balance/id-30000034/depth-3|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:26 |   203.188.243.150|guest|Ledger Opening Balance Confirm|http://accounts.dftexltd.com/ledger/opening/balance-confirm|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:27 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:28 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:31 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-12-25&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:32 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:54 |   203.188.243.150|guest|Ajax Ledger Opening Balance|http://accounts.dftexltd.com/ajax/opening/balance/id-30000034/depth-3|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:58 |   203.188.243.150|guest|Ledger Opening Balance Confirm|http://accounts.dftexltd.com/ledger/opening/balance-confirm|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:07:59 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:08:00 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:08:13 |   203.188.243.150|guest|Ajax Ledger Opening Balance|http://accounts.dftexltd.com/ajax/opening/balance/id-40000007/depth-4|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:08:18 |   203.188.243.150|guest|Ledger Opening Balance Confirm|http://accounts.dftexltd.com/ledger/opening/balance-confirm|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:08:19 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:08:20 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:08:23 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-12-25&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:08:24 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:09:24 |   203.188.243.150|guest|Ajax Ledger Opening Balance|http://accounts.dftexltd.com/ajax/opening/balance/id-30000035/depth-3|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:09:32 |   203.188.243.150|guest|Ledger Opening Balance Confirm|http://accounts.dftexltd.com/ledger/opening/balance-confirm|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:09:33 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:09:34 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:09:40 |   203.188.243.150|guest|Ajax Ledger Opening Balance|http://accounts.dftexltd.com/ajax/opening/balance/id-40000009/depth-4|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:09:45 |   203.188.243.150|guest|Ledger Opening Balance Confirm|http://accounts.dftexltd.com/ledger/opening/balance-confirm|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:09:46 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:09:48 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:09:51 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet?cost_center=0&search_from=2016-12-25&search_to=2017-03-15|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:09:52 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:10:25 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:10:27 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:10:34 |   203.188.243.150|guest|Ajax Ledger Opening Balance|http://accounts.dftexltd.com/ajax/opening/balance/id-40000009/depth-4|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:10:37 |   203.188.243.150|guest|Ledger Opening Balance Confirm|http://accounts.dftexltd.com/ledger/opening/balance-confirm|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:10:38 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:10:39 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:10:44 |   203.188.243.150|guest|Ajax Ledger Opening Balance|http://accounts.dftexltd.com/ajax/opening/balance/id-30000035/depth-3|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:10:48 |   203.188.243.150|guest|Ledger Opening Balance Confirm|http://accounts.dftexltd.com/ledger/opening/balance-confirm|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:10:49 |   203.188.243.150|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:10:50 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:11:00 |   203.188.243.150|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/10000002/group-1|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:11:04 |   203.188.243.150|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/20000006/group-2|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:11:32 |   203.188.243.150|guest|Accounts|http://accounts.dftexltd.com/journal/ledger-10000004/depth-1|Mozilla Firefox|windows|||Bangladesh
+03-15-2017 | 17:11:33 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh

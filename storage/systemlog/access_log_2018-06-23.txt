@@ -1,0 +1,43 @@
+06-23-2018 | 14:37:59 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+06-23-2018 | 14:38:22 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+06-23-2018 | 14:38:24 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+06-23-2018 | 14:38:36 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+06-23-2018 | 14:38:36 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+06-23-2018 | 14:44:04 |   103.88.232.210|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/10000001/group-1|Google Chrome|windows|||
+06-23-2018 | 14:44:12 |   103.88.232.210|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/20000001/group-2|Google Chrome|windows|||
+06-23-2018 | 14:44:21 |   103.88.232.210|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/30000001/group-3|Google Chrome|windows|||
+06-23-2018 | 14:44:24 |   103.88.232.210|guest|Journal Posting|http://accounts.dftexltd.com/journal/sub-group/40000005/group-4|Google Chrome|windows|||
+06-23-2018 | 14:51:21 |   103.88.232.210|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+06-23-2018 | 14:51:26 |   103.88.232.210|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+06-23-2018 | 14:53:15 |   103.88.232.210|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+06-23-2018 | 14:53:19 |   103.88.232.210|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+06-23-2018 | 14:53:24 |   103.88.232.210|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+06-23-2018 | 14:53:45 |   103.88.232.210|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|||
+06-23-2018 | 15:36:03 |   103.88.232.210|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+06-23-2018 | 15:36:05 |   103.88.232.210|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+06-23-2018 | 15:36:09 |   103.88.232.210|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+06-23-2018 | 15:36:12 |   103.88.232.210|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+06-23-2018 | 17:18:38 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+06-23-2018 | 17:18:39 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+06-23-2018 | 17:18:47 |   103.88.232.210|guest|All Customer|http://accounts.dftexltd.com/customer/list|Google Chrome|windows|||
+06-23-2018 | 17:19:08 |   103.88.232.210|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+06-23-2018 | 17:19:23 |   103.88.232.210|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Google Chrome|windows|||
+06-23-2018 | 17:19:47 |   103.88.232.210|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Google Chrome|windows|||
+06-23-2018 | 17:20:39 |   103.88.232.210|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report?cost_center=1&search_from=2018-06-23&search_to=2018-06-23|Google Chrome|windows|||
+06-23-2018 | 17:21:45 |   103.88.232.210|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Google Chrome|windows|||
+06-23-2018 | 17:21:52 |   103.88.232.210|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Google Chrome|windows|||
+06-23-2018 | 17:27:44 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+06-23-2018 | 17:27:45 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+06-23-2018 | 17:27:49 |   103.88.232.210|guest|All Customer|http://accounts.dftexltd.com/customer/list|Google Chrome|windows|||
+06-23-2018 | 17:27:52 |   103.88.232.210|guest|Edit Customer List|http://accounts.dftexltd.com/edit/customer/id-1|Google Chrome|windows|||
+06-23-2018 | 17:27:59 |   103.88.232.210|guest|Update Customer List|http://accounts.dftexltd.com/update/customer/id-1|Google Chrome|windows|||
+06-23-2018 | 17:28:00 |   103.88.232.210|guest|All Customer|http://accounts.dftexltd.com/customer/list|Google Chrome|windows|||
+06-23-2018 | 17:28:25 |   103.88.232.210|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|||
+06-23-2018 | 17:28:46 |   103.88.232.210|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Google Chrome|windows|||
+06-23-2018 | 17:30:12 |   103.88.232.210|guest|Customer Sales Order Entry|http://accounts.dftexltd.com/sales/order/field/2|Google Chrome|windows|||
+06-23-2018 | 17:30:20 |   103.88.232.210|guest|Customer Sales Order Entry|http://accounts.dftexltd.com/sales/order/field/3|Google Chrome|windows|||
+06-23-2018 | 17:30:22 |   103.88.232.210|guest|Customer Sales Order Entry|http://accounts.dftexltd.com/sales/order/field/4|Google Chrome|windows|||
+06-23-2018 | 17:30:43 |   103.88.232.210|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Google Chrome|windows|||
+06-23-2018 | 17:30:45 |   103.88.232.210|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment|Google Chrome|windows|||
+06-23-2018 | 17:31:30 |   103.88.232.210|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment|Google Chrome|windows|||
+06-23-2018 | 17:32:56 |   103.88.232.210|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment?customer=eto_tech&customer_id=2&customer_ref=50000008.5|Google Chrome|windows|||

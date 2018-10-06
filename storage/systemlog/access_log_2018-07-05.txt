@@ -1,0 +1,47 @@
+07-05-2018 | 00:07:03 |   207.70.9.108|guest|LogIn|https://accounts.dftexltd.com|Google Chrome|Android|||
+07-05-2018 | 00:08:23 |   93.119.227.91|guest|LogIn|https://accounts.dftexltd.com|Google Chrome|Android|||
+07-05-2018 | 00:08:23 |   93.119.227.91|guest|LogIn|https://www.accounts.dftexltd.com|Google Chrome|windows|||
+07-05-2018 | 03:26:28 |   52.91.6.41|guest|LogIn|https://accounts.dftexltd.com|Google Chrome|linux|||
+07-05-2018 | 03:29:16 |   54.82.102.176|guest|LogIn|https://www.accounts.dftexltd.com|Google Chrome|linux|||
+07-05-2018 | 03:30:07 |   34.227.53.60|guest|LogIn|http://www.accounts.dftexltd.com|Google Chrome|linux|||
+07-05-2018 | 10:06:16 |   184.73.59.27|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|linux|||
+07-05-2018 | 10:08:53 |   54.144.49.156|guest|LogIn|https://www.accounts.dftexltd.com|Google Chrome|linux|||
+07-05-2018 | 11:18:32 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+07-05-2018 | 11:18:37 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+07-05-2018 | 11:18:38 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-05-2018 | 11:18:43 |   103.88.232.210|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+07-05-2018 | 11:18:59 |   103.88.232.210|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Google Chrome|windows|||
+07-05-2018 | 11:19:02 |   103.88.232.210|guest|Reports of Cash Flow|http://accounts.dftexltd.com/reports/cash-flow|Google Chrome|windows|||
+07-05-2018 | 11:19:04 |   103.88.232.210|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Google Chrome|windows|||
+07-05-2018 | 11:19:06 |   103.88.232.210|guest|Purchase Report|http://accounts.dftexltd.com/purchase/balance/report|Google Chrome|windows|||
+07-05-2018 | 11:19:20 |   103.88.232.210|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Google Chrome|windows|||
+07-05-2018 | 11:21:03 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-05-2018 | 11:21:14 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+07-05-2018 | 11:21:14 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+07-05-2018 | 11:21:15 |   103.88.232.210|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|||
+07-05-2018 | 11:21:30 |   103.88.232.210|guest|Auth Logs|http://accounts.dftexltd.com/system-admin/auth-logs|Google Chrome|windows|||
+07-05-2018 | 11:21:41 |   103.88.232.210|guest|Access Logs|http://accounts.dftexltd.com/system-admin/access-logs|Google Chrome|windows|||
+07-05-2018 | 11:21:55 |   103.88.232.210|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|||
+07-05-2018 | 11:22:21 |   103.88.232.210|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Google Chrome|windows|||
+07-05-2018 | 11:22:25 |   103.88.232.210|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|||
+07-05-2018 | 11:22:33 |   103.88.232.210|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|||
+07-05-2018 | 11:23:38 |   103.88.232.210|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+07-05-2018 | 11:23:40 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-05-2018 | 11:23:51 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+07-05-2018 | 11:23:51 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+07-05-2018 | 11:23:56 |   103.88.232.210|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Google Chrome|windows|||
+07-05-2018 | 11:23:59 |   103.88.232.210|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Google Chrome|windows|||
+07-05-2018 | 11:24:12 |   103.88.232.210|guest|Sales Report|http://accounts.dftexltd.com/sales/balance/report|Google Chrome|windows|||
+07-05-2018 | 11:24:41 |   103.88.232.210|guest|Sales Report|http://accounts.dftexltd.com/sales/balance/report|Google Chrome|windows|||
+07-05-2018 | 11:24:55 |   103.88.232.210|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Google Chrome|windows|||
+07-05-2018 | 11:25:00 |   103.88.232.210|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|||
+07-05-2018 | 11:25:25 |   103.88.232.210|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|||
+07-05-2018 | 11:25:38 |   103.88.232.210|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Google Chrome|windows|||
+07-05-2018 | 11:26:27 |   103.88.232.210|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|||
+07-05-2018 | 11:26:30 |   103.88.232.210|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|||
+07-05-2018 | 11:26:36 |   103.88.232.210|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+07-05-2018 | 11:26:55 |   103.88.232.210|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+07-05-2018 | 11:28:12 |   103.88.232.210|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+07-05-2018 | 11:28:21 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+07-05-2018 | 11:28:31 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+07-05-2018 | 11:28:31 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||

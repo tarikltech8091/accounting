@@ -1,0 +1,31 @@
+10-17-2017 | 19:29:09 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+10-17-2017 | 19:29:16 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+10-17-2017 | 19:29:18 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+10-17-2017 | 19:29:25 |   103.88.232.210|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+10-17-2017 | 19:29:28 |   103.88.232.210|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Google Chrome|windows|||
+10-17-2017 | 19:30:48 |   103.88.232.210|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Google Chrome|windows|||
+10-17-2017 | 19:39:43 |   103.88.232.210|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Google Chrome|windows|||
+10-17-2017 | 19:39:58 |   103.88.232.210|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+10-17-2017 | 19:39:59 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+10-17-2017 | 19:40:07 |   103.88.232.210|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Google Chrome|windows|||
+10-17-2017 | 19:40:09 |   103.88.232.210|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|||
+10-17-2017 | 19:40:10 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+10-17-2017 | 19:40:10 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+10-17-2017 | 19:40:40 |   103.88.232.210|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment-method/cash|Google Chrome|windows|||
+10-17-2017 | 19:41:13 |   103.88.232.210|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|||
+10-17-2017 | 19:41:14 |   103.88.232.210|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Google Chrome|windows|||
+10-17-2017 | 19:41:37 |   103.88.232.210|guest|All Order List|http://accounts.dftexltd.com/customer/all/order-list|Google Chrome|windows|||
+10-17-2017 | 19:41:55 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+10-17-2017 | 19:42:05 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+10-17-2017 | 19:42:06 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+10-17-2017 | 19:42:49 |   103.88.232.210|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+10-17-2017 | 19:42:50 |   103.88.232.210|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+10-17-2017 | 19:43:58 |   103.88.232.210|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment|Google Chrome|windows|||
+10-17-2017 | 19:44:06 |   103.88.232.210|guest|All Customer|http://accounts.dftexltd.com/customer/list|Google Chrome|windows|||
+10-17-2017 | 19:44:19 |   103.88.232.210|guest|Access Logs|http://accounts.dftexltd.com/system-admin/access-logs|Google Chrome|windows|||
+10-17-2017 | 19:44:28 |   103.88.232.210|guest|Access Logs|http://accounts.dftexltd.com/system-admin/access-logs?form_search_date=2017-10-17&page=2&to_search_date=2017-10-17|Google Chrome|windows|||
+10-17-2017 | 19:44:48 |   103.88.232.210|guest|Access Logs|http://accounts.dftexltd.com/system-admin/access-logs?form_search_date=2017-10-17&page=3&to_search_date=2017-10-17|Google Chrome|windows|||
+10-17-2017 | 19:44:53 |   103.88.232.210|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|||
+10-17-2017 | 19:45:11 |   103.88.232.210|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+10-17-2017 | 19:45:21 |   103.88.232.210|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+10-17-2017 | 19:45:21 |   103.88.232.210|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||

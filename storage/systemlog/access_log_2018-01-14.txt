@@ -1,0 +1,22 @@
+01-14-2018 | 20:42:47 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+01-14-2018 | 20:43:06 |   45.123.42.137|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+01-14-2018 | 20:43:09 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-14-2018 | 20:43:20 |   45.123.42.137|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+01-14-2018 | 20:43:20 |   45.123.42.137|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+01-14-2018 | 20:43:28 |   45.123.42.137|guest|All Supplier|http://accounts.dftexltd.com/supplier/list|Google Chrome|windows|||
+01-14-2018 | 20:43:38 |   45.123.42.137|guest|Edit Supplier List|http://accounts.dftexltd.com/edit/supplier/id-1|Google Chrome|windows|||
+01-14-2018 | 20:43:47 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-14-2018 | 20:43:47 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-14-2018 | 20:43:57 |   45.123.42.137|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+01-14-2018 | 20:43:57 |   45.123.42.137|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+01-14-2018 | 20:44:00 |   45.123.42.137|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Google Chrome|windows|||
+01-14-2018 | 20:44:44 |   45.123.42.137|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Google Chrome|windows|||
+01-14-2018 | 20:45:15 |   45.123.42.137|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|||
+01-14-2018 | 20:46:39 |   45.123.42.137|guest|Supplier Registration Confirm|http://accounts.dftexltd.com/supplier/add|Google Chrome|windows|||
+01-14-2018 | 20:46:40 |   45.123.42.137|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Google Chrome|windows|||
+01-14-2018 | 20:47:14 |   45.123.42.137|guest|Inventory Stocks Item List|http://accounts.dftexltd.com/inventory/stock/item/list|Google Chrome|windows|||
+01-14-2018 | 20:47:28 |   45.123.42.137|guest|Waste Goods Summery|http://accounts.dftexltd.com/delivery/finish-goods/list|Google Chrome|windows|||
+01-14-2018 | 20:48:57 |   45.123.42.137|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|||
+01-14-2018 | 20:49:07 |   45.123.42.137|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+01-14-2018 | 20:49:17 |   45.123.42.137|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+01-14-2018 | 20:49:17 |   45.123.42.137|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||

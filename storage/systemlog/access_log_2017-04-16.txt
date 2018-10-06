@@ -1,0 +1,8 @@
+04-16-2017 | 17:24:13 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+04-16-2017 | 17:24:34 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-16-2017 | 17:24:36 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/mahmudul.hasan.sourav|Google Chrome|windows|||
+04-16-2017 | 17:24:49 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+04-16-2017 | 17:24:49 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+04-16-2017 | 17:24:50 |   103.58.74.234|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+04-16-2017 | 17:25:07 |   103.58.74.234|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Google Chrome|windows|||
+04-16-2017 | 17:25:17 |   103.58.74.234|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Google Chrome|windows|||

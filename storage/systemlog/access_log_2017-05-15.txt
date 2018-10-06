@@ -1,0 +1,13 @@
+05-15-2017 | 18:21:02 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+05-15-2017 | 18:21:19 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+05-15-2017 | 18:21:20 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+05-15-2017 | 18:21:32 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+05-15-2017 | 18:21:32 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+05-15-2017 | 18:21:48 |   103.58.74.234|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Google Chrome|windows|||
+05-15-2017 | 18:23:42 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+05-15-2017 | 18:23:53 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+05-15-2017 | 18:23:53 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+05-15-2017 | 18:23:55 |   103.58.74.234|guest|Journal|http://accounts.dftexltd.com/journal/transaction|Google Chrome|windows|||
+05-15-2017 | 18:24:00 |   103.58.74.234|guest|All Ledger Transaction|http://accounts.dftexltd.com/all/journal/ledger|Google Chrome|windows|||
+05-15-2017 | 18:26:37 |   103.58.74.234|guest|Inventory Stocks Transaction|http://accounts.dftexltd.com/inventory/stocks/trasansaction/list|Google Chrome|windows|||
+05-15-2017 | 18:26:45 |   103.58.74.234|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Google Chrome|windows|||

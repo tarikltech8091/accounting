@@ -1,0 +1,6 @@
+03-13-2018 | 11:28:22 |   103.96.36.154|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+03-13-2018 | 11:34:41 |   103.96.36.154|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+03-13-2018 | 11:34:45 |   103.96.36.154|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+03-13-2018 | 11:34:46 |   103.96.36.154|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+03-13-2018 | 11:34:46 |   103.96.36.154|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+03-13-2018 | 14:54:30 |   103.96.36.154|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||

@@ -1,0 +1,15 @@
+05-08-2018 | 12:40:59 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||
+05-08-2018 | 12:41:11 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+05-08-2018 | 12:41:12 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/inventory/sipon|Mozilla Firefox|windows|||
+05-08-2018 | 12:41:23 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||
+05-08-2018 | 12:41:24 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||
+05-08-2018 | 12:41:27 |   203.188.243.150|guest|Logout|http://accounts.dftexltd.com/logout/sipon|Mozilla Firefox|windows|||
+05-08-2018 | 12:41:28 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+05-08-2018 | 12:41:34 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+05-08-2018 | 12:41:36 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||
+05-08-2018 | 12:41:49 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||
+05-08-2018 | 12:41:49 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||
+05-08-2018 | 12:43:27 |   203.188.243.150|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Mozilla Firefox|windows|||
+05-08-2018 | 12:46:14 |   203.188.243.150|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Mozilla Firefox|windows|||
+05-08-2018 | 12:46:16 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||
+05-08-2018 | 17:39:36 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||

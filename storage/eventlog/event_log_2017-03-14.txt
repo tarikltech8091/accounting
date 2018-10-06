@@ -1,0 +1,13 @@
+03-14-2017 | 17:54:06 |   203.188.243.150|1|http://accounts.dftexltd.com/ledger/opening/balance-confirm|update,ltech_ledger_group_4|{"ledger_debit":"0","ledger_credit":"0.00","updated_by":1,"updated_at":"2017-03-14"}
+03-14-2017 | 17:55:22 |   203.188.243.150|1|http://accounts.dftexltd.com/ledger/opening/balance-confirm|update,ltech_ledger_group_4|{"ledger_debit":"0","ledger_credit":"0.00","updated_by":1,"updated_at":"2017-03-14"}
+03-14-2017 | 17:58:17 |   203.188.243.150|1|http://accounts.dftexltd.com/ledger/opening/balance-confirm|update,ltech_ledger_group_4|{"ledger_debit":"0.00","ledger_credit":"10","updated_by":1,"updated_at":"2017-03-14"}
+03-14-2017 | 17:59:13 |   203.188.243.150|1|http://accounts.dftexltd.com/ledger/opening/balance-confirm|update,ltech_ledger_group_4|{"ledger_debit":"0.00","ledger_credit":"0.00","updated_by":1,"updated_at":"2017-03-14"}
+03-14-2017 | 18:08:58 |   203.188.243.150|1|http://accounts.dftexltd.com/general/transaction-list/update|update,ltech_transactions|{"transactions_naration":"from sinha electronics torch light purpose","transaction_amount":"350.00","cost_center_id":"8","updated_by":1,"updated_at":"2017-03-14 18:08:58"}
+03-14-2017 | 18:08:58 |   203.188.243.150|1|http://accounts.dftexltd.com/general/transaction-list/update|insert,ltech_general_journal.journal_data_info|1
+03-14-2017 | 18:08:58 |   203.188.243.150|1|http://accounts.dftexltd.com/general/transaction-list/update|insert,ltech_general_journal.journal_data_info|1
+03-14-2017 | 18:09:51 |   203.188.243.150|1|http://accounts.dftexltd.com/general/transaction-list/update|update,ltech_transactions|{"transactions_naration":"from sinha electronics torch light purpose","transaction_amount":"360.00","cost_center_id":"8","updated_by":1,"updated_at":"2017-03-14 18:09:51"}
+03-14-2017 | 18:09:51 |   203.188.243.150|1|http://accounts.dftexltd.com/general/transaction-list/update|insert,ltech_general_journal.journal_data_info|1
+03-14-2017 | 18:09:51 |   203.188.243.150|1|http://accounts.dftexltd.com/general/transaction-list/update|insert,ltech_general_journal.journal_data_info|1
+03-14-2017 | 18:10:19 |   203.188.243.150|1|http://accounts.dftexltd.com/general/transaction-list/update|update,ltech_transactions|{"transactions_naration":"from sinha electronics torch light purpose","transaction_amount":"350.00","cost_center_id":"8","updated_by":1,"updated_at":"2017-03-14 18:10:19"}
+03-14-2017 | 18:10:19 |   203.188.243.150|1|http://accounts.dftexltd.com/general/transaction-list/update|insert,ltech_general_journal.journal_data_info|1
+03-14-2017 | 18:10:19 |   203.188.243.150|1|http://accounts.dftexltd.com/general/transaction-list/update|insert,ltech_general_journal.journal_data_info|1

@@ -1,0 +1,4 @@
+07-30-2018 | 23:28:18 |   Message : Undefined variable: ub, File : /home2/sharif/accounts_dftex/app/System.php, Line : 330
+07-30-2018 | 23:28:18 |   Message : Undefined variable: ub, File : /home2/sharif/accounts_dftex/app/System.php, Line : 330
+07-30-2018 | 23:28:21 |   Message : Undefined variable: ub, File : /home2/sharif/accounts_dftex/app/System.php, Line : 330
+07-30-2018 | 23:28:21 |   Message : Undefined variable: ub, File : /home2/sharif/accounts_dftex/app/System.php, Line : 330

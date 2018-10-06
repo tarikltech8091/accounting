@@ -1,0 +1,246 @@
+02-27-2017 | 20:26:51 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com/public|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:27:45 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:31:57 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:31:59 |   103.4.146.142|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/admin|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:00 |   103.4.146.142|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:00 |   103.4.146.142|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:03 |   103.4.146.142|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/admin|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:04 |   103.4.146.142|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:04 |   103.4.146.142|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:18 |   103.4.146.142|guest|Access Logs|http://accounts.dftexltd.com/system-admin/access-logs|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:30 |   103.4.146.142|guest|Auth Logs|http://accounts.dftexltd.com/system-admin/auth-logs|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:33 |   103.4.146.142|guest|Access Logs|http://accounts.dftexltd.com/system-admin/access-logs|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:55 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:56 |   103.4.146.142|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/admin|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:58 |   103.4.146.142|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:32:58 |   103.4.146.142|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:33:06 |   103.4.146.142|guest|Logout|http://accounts.dftexltd.com/logout/admin|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:33:07 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:33:11 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com/login?box=login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:33:58 |   103.4.146.142|guest|Logout|http://accounts.dftexltd.com/logout/admin|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 20:33:59 |   103.4.146.142|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 21:31:38 |   103.204.83.202|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:31:50 |   103.204.83.202|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:31:51 |   103.204.83.202|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:31:58 |   103.204.83.202|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:31:59 |   103.204.83.202|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/admin|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:32:01 |   103.204.83.202|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:32:01 |   103.204.83.202|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:06 |   103.204.83.202|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:10 |   103.204.83.202|guest|Ajax Category Setting|http://accounts.dftexltd.com/ajax/category/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:22 |   103.204.83.202|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:22 |   103.204.83.202|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:25 |   103.204.83.202|guest|Ajax Category Setting|http://accounts.dftexltd.com/ajax/category/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:34 |   103.204.83.202|guest|Ajax Category Setting Update|http://accounts.dftexltd.com/ajax/category/settings/update/1/Yarn/kg|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:35 |   103.204.83.202|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:36 |   103.204.83.202|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:38 |   103.204.83.202|guest|Ajax Category Setting|http://accounts.dftexltd.com/ajax/category/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:47 |   103.204.83.202|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:48 |   103.204.83.202|guest|Category Settings|http://accounts.dftexltd.com/inventory/category/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:51 |   103.204.83.202|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:41:53 |   103.204.83.202|guest|Ajax Inventory Setting|http://accounts.dftexltd.com/ajax/stock/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:42:05 |   103.204.83.202|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:42:06 |   103.204.83.202|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:42:10 |   103.204.83.202|guest|Ajax Inventory Setting|http://accounts.dftexltd.com/ajax/stock/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:42:26 |   103.204.83.202|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:42:28 |   103.204.83.202|guest|Inventory Item|http://accounts.dftexltd.com/inventory/item/settings|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:42:30 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:42:36 |   103.204.83.202|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:42:41 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:42:42 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:42:44 |   103.204.83.202|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:42:53 |   103.204.83.202|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:43:16 |   103.204.83.202|guest|Supplier Registration Confirm|http://accounts.dftexltd.com/supplier/add|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:43:16 |   103.204.83.202|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:43:41 |   103.204.83.202|guest|Inventory Stocks Entry|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:43:42 |   103.204.83.202|guest|Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice/view|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:43:47 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:43:54 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:43:59 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:44:04 |   103.204.83.202|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:44:17 |   103.204.83.202|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:44:39 |   103.204.83.202|guest|Supplier Registration Confirm|http://accounts.dftexltd.com/supplier/add|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:44:40 |   103.204.83.202|guest|Inventory Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:03 |   103.204.83.202|guest|Inventory Stocks Entry|http://accounts.dftexltd.com/inventory/purchase/invoice|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:04 |   103.204.83.202|guest|Purchase Invoice|http://accounts.dftexltd.com/inventory/purchase/invoice/view|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:16 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:21 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:25 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:31 |   103.204.83.202|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:40 |   103.204.83.202|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:44 |   103.204.83.202|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment?supplier=naim_ltd&supplier_id=111002&supplier_ref=50000004.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:47 |   103.204.83.202|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment/field/1/stocks-2|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:54 |   103.204.83.202|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment-method/cash|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:59 |   103.204.83.202|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:45:59 |   103.204.83.202|guest|Supplier Payment Voucher|http://accounts.dftexltd.com/supplier/payment/voucher/view|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:46:03 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:46:08 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:46:29 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:46:40 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:46:44 |   103.204.83.202|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:46:52 |   103.204.83.202|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment?supplier=tarik_ltd&supplier_id=111001&supplier_ref=50000003.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:46:54 |   103.204.83.202|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment/field/1/stocks-1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:47:01 |   103.204.83.202|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment-method/cash|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:47:05 |   103.204.83.202|guest|Supplier Payment|http://accounts.dftexltd.com/supplier/payment|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:47:06 |   103.204.83.202|guest|Supplier Payment Voucher|http://accounts.dftexltd.com/supplier/payment/voucher/view|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:47:09 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:47:15 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:47:20 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:47:28 |   103.204.83.202|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:47:32 |   103.204.83.202|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return?supplier=tarik_ltd&supplier_id=111001&supplier_ref=50000003.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:47:34 |   103.204.83.202|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return?stocks_transactions_id=1&supplier=tarik_ltd&supplier_id=111001&supplier_ref=50000003.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:48:00 |   103.204.83.202|guest|Supplier Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return?stocks_transactions_id=1&supplier=tarik_ltd&supplier_id=111001&supplier_ref=50000003.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:48:01 |   103.204.83.202|guest|Purchase Return|http://accounts.dftexltd.com/supplier/purchase/return/invoice/stocks-tran-3|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:48:05 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:48:09 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:48:13 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:48:23 |   103.204.83.202|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:48:30 |   103.204.83.202|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:48:58 |   103.204.83.202|guest|Customer Registration Confirm|http://accounts.dftexltd.com/customer/registration|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:48:58 |   103.204.83.202|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:49:21 |   103.204.83.202|guest|Customer Order Confirm|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:49:22 |   103.204.83.202|guest|Customer Order Individual List|http://accounts.dftexltd.com/customer/order-list/1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:49:31 |   103.204.83.202|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:49:34 |   103.204.83.202|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=1&order_id=1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:49:41 |   103.204.83.202|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:49:41 |   103.204.83.202|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/field/2|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:49:43 |   103.204.83.202|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/2|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:50:31 |   103.204.83.202|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:50:32 |   103.204.83.202|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:50:42 |   103.204.83.202|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/field/2|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:50:44 |   103.204.83.202|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=1&order_id=1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:50:47 |   103.204.83.202|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:50:48 |   103.204.83.202|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/field/2|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:50:52 |   103.204.83.202|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/2|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:51:11 |   103.204.83.202|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:51:11 |   103.204.83.202|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:51:17 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:51:22 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:51:30 |   103.204.83.202|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:51:33 |   103.204.83.202|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=tarikul_enterprise&customer_id=222001&customer_ref=50000005.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:51:36 |   103.204.83.202|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=tarikul_enterprise&customer_id=222001&customer_order_id=1&customer_ref=50000005.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:51:41 |   103.204.83.202|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=tarikul_enterprise&customer_id=222001&customer_order_id=1&customer_ref=50000005.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:51:42 |   103.204.83.202|guest|Sales Invoice|http://accounts.dftexltd.com/customer/sales/invoice/order-1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:51:46 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:51:54 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:52:38 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:53:10 |   103.204.83.202|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:53:36 |   103.204.83.202|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:53:41 |   103.204.83.202|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment?customer=tarikul_enterprise&customer_id=222001&customer_ref=50000005.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:53:43 |   103.204.83.202|guest|Customer Order Payment|http://accounts.dftexltd.com/ajax/payment/entry/1/1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:53:48 |   103.204.83.202|guest|Customer Receipt|http://accounts.dftexltd.com/customer/payment-method/cash|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:53:58 |   103.204.83.202|guest|Receipt|http://accounts.dftexltd.com/customer/payment|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:53:59 |   103.204.83.202|guest|Customer Payment Voucher|http://accounts.dftexltd.com/customer/payment/voucher/view|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:54:03 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:54:23 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:54:57 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:55:04 |   103.204.83.202|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:55:16 |   103.204.83.202|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:55:47 |   103.204.83.202|guest|Customer Registration Confirm|http://accounts.dftexltd.com/customer/registration|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:55:48 |   103.204.83.202|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:56:08 |   103.204.83.202|guest|Customer Order Confirm|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:56:09 |   103.204.83.202|guest|Customer Order Individual List|http://accounts.dftexltd.com/customer/order-list/2|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:56:26 |   103.204.83.202|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:56:30 |   103.204.83.202|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list?item_id=2&order_id=2|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:56:36 |   103.204.83.202|guest|Inventory Stocks Finish goods|http://accounts.dftexltd.com/finish-goods/stocks-info/1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:56:56 |   103.204.83.202|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:56:57 |   103.204.83.202|guest|Inventory Finish-goods Entry|http://accounts.dftexltd.com/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:57:05 |   103.204.83.202|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:57:10 |   103.204.83.202|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=kagoji_enterprice&customer_id=222002&customer_ref=50000007.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:57:13 |   103.204.83.202|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=kagoji_enterprice&customer_id=222002&customer_order_id=2&customer_ref=50000007.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:57:51 |   103.204.83.202|guest|Order Delivery|http://accounts.dftexltd.com/customer/order/delivery?customer=kagoji_enterprice&customer_id=222002&customer_order_id=2&customer_ref=50000007.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:57:52 |   103.204.83.202|guest|Sales Invoice|http://accounts.dftexltd.com/customer/sales/invoice/order-2|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:57:56 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:58:13 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:58:18 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:58:24 |   103.204.83.202|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:58:40 |   103.204.83.202|guest|Waste Goods Summery|http://accounts.dftexltd.com/delivery/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:59:27 |   103.204.83.202|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:59:30 |   103.204.83.202|guest|Order Receipt|http://accounts.dftexltd.com/customer/payment?customer=kagoji_enterprice&customer_id=222002&customer_ref=50000007.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:59:40 |   103.204.83.202|guest|Customer Order Payment|http://accounts.dftexltd.com/ajax/payment/entry/2/1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:59:46 |   103.204.83.202|guest|Customer Receipt|http://accounts.dftexltd.com/customer/payment-method/cash|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:59:52 |   103.204.83.202|guest|Receipt|http://accounts.dftexltd.com/customer/payment|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:59:53 |   103.204.83.202|guest|Customer Payment Voucher|http://accounts.dftexltd.com/customer/payment/voucher/view|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 21:59:59 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:00:08 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:00:15 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:00:35 |   103.204.83.202|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:00:40 |   103.204.83.202|guest|Waste Goods Summery|http://accounts.dftexltd.com/delivery/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:00:52 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:00:55 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return?customer=kagoji_enterprice&customer_id=222002&customer_ref=50000007.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:00:58 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return?customer=tarikul_enterprise&customer_id=222001&customer_ref=50000005.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:01:03 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return?customer=tarikul_enterprise&customer_id=222001&customer_ref=50000005.5&customer_return_order_id=1&order_item_id=1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:01:18 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return?customer=tarikul_enterprise&customer_id=222001&customer_ref=50000005.5&customer_return_order_id=1&order_item_id=1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:01:19 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return/invoice|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:01:25 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:02:23 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:02:28 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:02:38 |   103.204.83.202|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:03:24 |   103.204.83.202|guest|Waste Goods Summery|http://accounts.dftexltd.com/delivery/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:03:40 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:03:49 |   103.204.83.202|guest|Journal|http://accounts.dftexltd.com/journal/transaction|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:05:23 |   103.204.83.202|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:05:29 |   103.204.83.202|guest|General Transaction Delete|http://accounts.dftexltd.com/general/transaction-list/delete/id-11013/type-sales_return|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:05:30 |   103.204.83.202|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:05:31 |   103.204.83.202|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:05:35 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:05:39 |   103.204.83.202|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:05:44 |   103.204.83.202|guest|Manufacturing Report|http://accounts.dftexltd.com/manufacturing/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:05:49 |   103.204.83.202|guest|Income Statement|http://accounts.dftexltd.com/income-statement/report|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:05:54 |   103.204.83.202|guest|Waste Goods Summery|http://accounts.dftexltd.com/delivery/finish-goods/list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:06:15 |   103.204.83.202|guest|Ledger Opening Balance|http://accounts.dftexltd.com/ledger/opening/balance|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:06:18 |   103.204.83.202|guest|Ajax Ledger Opening Balance|http://accounts.dftexltd.com/ajax/opening/balance/id-10000004/depth-1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 22:53:52 |   103.253.45.54|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:53:57 |   103.253.45.54|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:53:58 |   103.253.45.54|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/admin|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:53:59 |   103.253.45.54|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:53:59 |   103.253.45.54|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:54:15 |   103.253.45.54|guest|Access Logs|http://accounts.dftexltd.com/system-admin/access-logs|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:54:57 |   103.253.45.54|guest|Access Logs|http://accounts.dftexltd.com/system-admin/access-logs?page=20|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:55:10 |   103.253.45.54|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/admin|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:55:11 |   103.253.45.54|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:55:11 |   103.253.45.54|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:55:24 |   103.253.45.54|guest|Reports of Cash Flow|http://accounts.dftexltd.com/reports/cash-flow|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:55:37 |   103.253.45.54|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:03 |   103.253.45.54|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/admin|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:05 |   103.253.45.54|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:05 |   103.253.45.54|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:08 |   103.253.45.54|guest|Customer Order|http://accounts.dftexltd.com/customer/order|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:14 |   103.253.45.54|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-general_journal|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:18 |   103.253.45.54|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-others_receipt|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:22 |   103.253.45.54|guest|Posting|http://accounts.dftexltd.com/journal/posting/type-others_payment|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:34 |   103.253.45.54|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/admin|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:35 |   103.253.45.54|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:35 |   103.253.45.54|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:40 |   103.253.45.54|guest|Logout|http://accounts.dftexltd.com/logout/admin|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:41 |   103.253.45.54|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:56 |   103.253.45.54|guest|All Supplier|http://accounts.dftexltd.com/supplier/list|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 22:56:57 |   103.253.45.54|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|Dhaka|Dhaka|Bangladesh
+02-27-2017 | 23:12:01 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:12:13 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:12:17 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return?customer=tarikul_enterprise&customer_id=222001&customer_ref=50000005.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:12:20 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return?customer=tarikul_enterprise&customer_id=222001&customer_ref=50000005.5&customer_return_order_id=1&order_item_id=1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:12:37 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return?customer=tarikul_enterprise&customer_id=222001&customer_ref=50000005.5&customer_return_order_id=1&order_item_id=1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:12:38 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return/invoice|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:12:41 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:54:56 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:55:17 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:55:42 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return/invoice|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:55:55 |   103.204.83.202|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:56:00 |   103.204.83.202|guest|General Transaction Delete|http://accounts.dftexltd.com/general/transaction-list/delete/id-11014/type-sales_return|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:56:00 |   103.204.83.202|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:56:01 |   103.204.83.202|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:56:08 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:56:30 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:56:33 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return?customer=tarikul_enterprise&customer_id=222001&customer_ref=50000005.5|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:56:36 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return?customer=tarikul_enterprise&customer_id=222001&customer_ref=50000005.5&customer_return_order_id=1&order_item_id=1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:56:50 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return?customer=tarikul_enterprise&customer_id=222001&customer_ref=50000005.5&customer_return_order_id=1&order_item_id=1|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:56:52 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return/invoice|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:56:56 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:57:16 |   103.204.83.202|guest|Customer Sales Return|http://accounts.dftexltd.com/customer/sales/return/invoice|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:57:17 |   103.204.83.202|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:57:32 |   103.204.83.202|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:57:33 |   103.204.83.202|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/admin|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:57:35 |   103.204.83.202|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:57:35 |   103.204.83.202|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+02-27-2017 | 23:57:41 |   103.204.83.202|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh

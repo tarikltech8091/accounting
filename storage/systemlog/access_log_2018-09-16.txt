@@ -1,0 +1,1 @@
+09-16-2018 | 15:22:32 |   127.0.0.1|guest|LogIn|http://localhost:75|Google Chrome|linux|||

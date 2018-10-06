@@ -1,0 +1,4 @@
+04-01-2017 | 21:51:57 |   116.58.201.142|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|Phone|||
+04-01-2017 | 21:51:58 |   116.58.201.142|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/mahmudul.hasan.sourav|Apple Safari|Phone|||
+04-01-2017 | 21:52:14 |   116.58.201.142|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Apple Safari|Phone|||
+04-01-2017 | 21:52:14 |   116.58.201.142|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Apple Safari|Phone|||

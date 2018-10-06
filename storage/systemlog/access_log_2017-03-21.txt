@@ -1,0 +1,20 @@
+03-21-2017 | 02:27:24 |   110.76.129.90|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|Phone|Dhaka|Dhaka|Bangladesh
+03-21-2017 | 02:28:00 |   110.76.129.90|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|Phone|Dhaka|Dhaka|Bangladesh
+03-21-2017 | 02:28:02 |   110.76.129.90|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|Phone|Dhaka|Dhaka|Bangladesh
+03-21-2017 | 10:19:08 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 10:19:31 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 10:19:33 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 10:19:54 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 10:19:55 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 16:12:14 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 16:12:15 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 16:12:24 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 16:12:25 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 16:12:39 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 16:12:39 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 16:12:43 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 16:13:02 |   203.188.243.150|guest|Report of Trail Balance|http://accounts.dftexltd.com/trail/balance/report|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 16:13:20 |   203.188.243.150|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 16:13:38 |   203.188.243.150|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list?cost_center=0&search_from=2017-03-19&search_to=2017-03-21|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 17:48:59 |   203.188.243.150|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list|Mozilla Firefox|windows|||Bangladesh
+03-21-2017 | 17:50:18 |   203.188.243.150|guest|Inventory Stocks Summery List|http://accounts.dftexltd.com/stock/summery/list?cost_center=0&search_from=2017-03-25&search_to=2017-03-21|Mozilla Firefox|windows|||Bangladesh

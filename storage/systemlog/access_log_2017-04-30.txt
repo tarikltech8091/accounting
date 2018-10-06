@@ -1,0 +1,21 @@
+04-30-2017 | 10:53:36 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Google Chrome|windows|||
+04-30-2017 | 10:54:25 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||
+04-30-2017 | 10:54:26 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+04-30-2017 | 10:54:36 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+04-30-2017 | 10:54:36 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+04-30-2017 | 12:37:02 |   103.58.74.234|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+04-30-2017 | 12:37:05 |   103.58.74.234|guest|User Managemenet|http://accounts.dftexltd.com/dashboard/admin/user/management|Google Chrome|windows|||
+04-30-2017 | 12:37:09 |   103.58.74.234|guest|General Transaction|http://accounts.dftexltd.com/general/transaction-list|Google Chrome|windows|||
+04-30-2017 | 12:37:11 |   103.58.74.234|guest|Journal|http://accounts.dftexltd.com/journal/transaction|Google Chrome|windows|||
+04-30-2017 | 12:37:13 |   103.58.74.234|guest|All Ledger Transaction|http://accounts.dftexltd.com/all/journal/ledger|Google Chrome|windows|||
+04-30-2017 | 12:37:16 |   103.58.74.234|guest|Ledger Transaction Details|http://accounts.dftexltd.com/journal/debit-cerdit/details/id-10000006|Google Chrome|windows|||
+04-30-2017 | 12:37:25 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+04-30-2017 | 12:37:35 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+04-30-2017 | 12:37:35 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+04-30-2017 | 12:54:23 |   103.58.74.234|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+04-30-2017 | 13:13:45 |   103.58.74.234|guest|Company Info|http://accounts.dftexltd.com/dashboard/company/info|Google Chrome|windows|||
+04-30-2017 | 14:14:37 |   103.58.74.234|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Google Chrome|windows|||
+04-30-2017 | 14:14:48 |   103.58.74.234|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Google Chrome|windows|||
+04-30-2017 | 14:14:48 |   103.58.74.234|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Google Chrome|windows|||
+04-30-2017 | 14:21:37 |   103.58.74.234|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Google Chrome|windows|||
+04-30-2017 | 14:21:38 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com/login|Google Chrome|windows|||

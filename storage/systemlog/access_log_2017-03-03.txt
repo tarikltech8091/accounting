@@ -1,0 +1,10 @@
+03-03-2017 | 16:56:05 |   103.25.249.183|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|Phone|||Bangladesh
+03-03-2017 | 16:56:11 |   103.25.249.183|guest|Error 404|http://accounts.dftexltd.com/error/404|Apple Safari|Phone|||Bangladesh
+03-03-2017 | 16:56:47 |   103.25.249.183|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|Phone|||Bangladesh
+03-03-2017 | 16:56:49 |   103.25.249.183|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Apple Safari|Phone|||Bangladesh
+03-03-2017 | 16:56:52 |   103.25.249.183|guest|Error 404|http://accounts.dftexltd.com/error/404|Apple Safari|Phone|||Bangladesh
+03-03-2017 | 16:56:53 |   103.25.249.183|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Apple Safari|Phone|||Bangladesh
+03-03-2017 | 16:56:53 |   103.25.249.183|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Apple Safari|Phone|||Bangladesh
+03-03-2017 | 16:57:31 |   103.25.249.183|guest|Logout|http://accounts.dftexltd.com/logout/faysal_ahammad|Apple Safari|Phone|||Bangladesh
+03-03-2017 | 16:57:39 |   103.25.249.183|guest|LogIn|http://accounts.dftexltd.com/login|Apple Safari|Phone|||Bangladesh
+03-03-2017 | 16:57:42 |   103.25.249.183|guest|Error 404|http://accounts.dftexltd.com/error/404|Apple Safari|Phone|||Bangladesh

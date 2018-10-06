@@ -1,0 +1,27 @@
+03-09-2017 | 10:13:26 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:13:28 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:13:41 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:22:58 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:23:00 |   203.188.243.150|guest|Dashboard|http://accounts.dftexltd.com/dashboard/admin/faysal_ahammad|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:23:02 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:23:04 |   203.188.243.150|guest|All Report Summary|http://accounts.dftexltd.com/dashboard/admin/today/all-report/summary|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:23:05 |   203.188.243.150|guest|Line Chart Report|http://accounts.dftexltd.com/dashboard/admin/line-graph/chart|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:35:34 |   203.188.243.150|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:35:47 |   203.188.243.150|guest|Cost Edit|http://accounts.dftexltd.com/dashboard/cost-center/edit/8|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:35:54 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:36:03 |   203.188.243.150|guest|Cost Center|http://accounts.dftexltd.com/dashboard/cost-center|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:36:04 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:38:08 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 10:38:16 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 13:58:50 |   103.58.74.234|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|Phone|Dhaka|Dhaka|Bangladesh
+03-09-2017 | 13:58:58 |   103.58.74.234|guest|Error 404|http://accounts.dftexltd.com/error/404|Apple Safari|Phone|Dhaka|Dhaka|Bangladesh
+03-09-2017 | 14:00:30 |   107.167.108.73|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|Phone|||Asia/Pacific Region
+03-09-2017 | 14:00:46 |   107.167.108.73|guest|Error 404|http://accounts.dftexltd.com/error/404|Apple Safari|Phone|||Asia/Pacific Region
+03-09-2017 | 14:29:37 |   107.167.108.182|guest|LogIn|http://accounts.dftexltd.com|Apple Safari|Phone|||Asia/Pacific Region
+03-09-2017 | 14:29:39 |   107.167.108.182|guest|Error 404|http://accounts.dftexltd.com/error/404|Apple Safari|Phone|||Asia/Pacific Region
+03-09-2017 | 16:59:07 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 16:59:07 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 16:59:17 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 17:09:27 |   203.188.243.150|guest|LogIn|http://accounts.dftexltd.com/login|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 17:09:30 |   203.188.243.150|guest|Reports Balance Sheet|http://accounts.dftexltd.com/reports/balance-sheet|Mozilla Firefox|windows|||Bangladesh
+03-09-2017 | 17:09:35 |   203.188.243.150|guest|Error 404|http://accounts.dftexltd.com/error/404|Mozilla Firefox|windows|||Bangladesh
